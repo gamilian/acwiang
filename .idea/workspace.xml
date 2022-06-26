@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="acwing" targetName="monotonic_queue" />
+      <config projectName="acwing" targetName="hash_table_1" />
+      <config projectName="acwing" targetName="hash_table_2" />
+      <config projectName="acwing" targetName="sum_of_interval" />
+      <config projectName="acwing" targetName="max_xor" />
+      <config projectName="acwing" targetName="static_linklist" />
+      <config projectName="acwing" targetName="high_precision_mul" />
+      <config projectName="acwing" targetName="stack" />
+      <config projectName="acwing" targetName="food_chain_2" />
+      <config projectName="acwing" targetName="prefix_sum1" />
+      <config projectName="acwing" targetName="string_count" />
+      <config projectName="acwing" targetName="sum_of_target" />
+      <config projectName="acwing" targetName="expression_evaluation" />
+      <config projectName="acwing" targetName="findKth" />
+      <config projectName="acwing" targetName="interval_merge" />
+      <config projectName="acwing" targetName="n_queen_2" />
+      <config projectName="acwing" targetName="merge_sort" />
+      <config projectName="acwing" targetName="simulation_heap" />
+      <config projectName="acwing" targetName="static_doubly_linklist" />
+      <config projectName="acwing" targetName="queue" />
+      <config projectName="acwing" targetName="heap_sort" />
+      <config projectName="acwing" targetName="reverse_pair" />
+      <config projectName="acwing" targetName="difference" />
+      <config projectName="acwing" targetName="high_precision_add" />
+      <config projectName="acwing" targetName="num_range" />
+      <config projectName="acwing" targetName="quick_sort" />
+      <config projectName="acwing" targetName="test" />
+      <config projectName="acwing" targetName="length_of_longest_sequence" />
+      <config projectName="acwing" targetName="lowbit" />
+      <config projectName="acwing" targetName="monotonic_stack" />
+      <config projectName="acwing" targetName="full_permutation" />
+      <config projectName="acwing" targetName="kmp" />
+      <config projectName="acwing" targetName="n_queen" />
+      <config projectName="acwing" targetName="points_in_connected_block" />
+      <config projectName="acwing" targetName="string_hash" />
+      <config projectName="acwing" targetName="high_precision_div" />
+      <config projectName="acwing" targetName="union_find_sets" />
+      <config projectName="acwing" targetName="cubic_root" />
+      <config projectName="acwing" targetName="difference_matrix" />
+      <config projectName="acwing" targetName="high_precison_sub" />
+      <config projectName="acwing" targetName="sum_of_submatrices" />
+      <config projectName="acwing" targetName="food_chain" />
+      <config projectName="acwing" targetName="acwing" />
+      <config projectName="acwing" targetName="binary_of_kth" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b7849a-a2e6-4ab0-b3f5-7c332b2918b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28pLne9iqGUV1R2rJObvqCD9HN4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.loaded.for.project&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gamilian/work/program/cpp-project/acwing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake 应用程序.n_queen_2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acwing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="acwing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="acwing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_of_kth" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="binary_of_kth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="binary_of_kth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cubic_root" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="cubic_root" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="cubic_root">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="difference" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="difference" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="difference">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="difference_matrix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="difference_matrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="difference_matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="expression_evaluation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="expression_evaluation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="expression_evaluation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findKth" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="findKth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="findKth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="food_chain" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="food_chain" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="food_chain">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="food_chain_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="food_chain_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="food_chain_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="full_permutation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="full_permutation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="full_permutation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_table_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="hash_table_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="hash_table_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_table_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="hash_table_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="hash_table_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap_sort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="heap_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="heap_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="high_precision_add" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="high_precision_add" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="high_precision_add">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="high_precision_div" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="high_precision_div" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="high_precision_div">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="high_precision_mul" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="high_precision_mul" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="high_precision_mul">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="high_precison_sub" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="high_precison_sub" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="high_precison_sub">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interval_merge" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="interval_merge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="interval_merge">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kmp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="kmp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="kmp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="length_of_longest_sequence" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="length_of_longest_sequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="length_of_longest_sequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lowbit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="lowbit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="lowbit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="max_xor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="max_xor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="max_xor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="merge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="merge_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="monotonic_queue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="monotonic_queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="monotonic_queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="monotonic_stack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="monotonic_stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="monotonic_stack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n_queen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="n_queen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="n_queen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n_queen_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="n_queen_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="n_queen_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="num_range" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="num_range" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="num_range">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="points_in_connected_block" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="points_in_connected_block" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="points_in_connected_block">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prefix_sum1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="prefix_sum1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="prefix_sum1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="queue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="queue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick_sort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="quick_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_pair" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="reverse_pair" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="reverse_pair">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simulation_heap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="simulation_heap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="simulation_heap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stack" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="stack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="stack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="static_doubly_linklist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="static_doubly_linklist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="static_doubly_linklist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="static_linklist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="static_linklist" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="static_linklist">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_count" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="string_count" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="string_count">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_hash" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="string_hash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="string_hash">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_of_interval" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="sum_of_interval" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="sum_of_interval">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_of_submatrices" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="sum_of_submatrices" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="sum_of_submatrices">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum_of_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="sum_of_target" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="sum_of_target">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="union_find_sets" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="acwing" TARGET_NAME="union_find_sets" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="acwing" RUN_TARGET_NAME="union_find_sets">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.acwing" />
+      <item itemvalue="CMake 应用程序.binary_of_kth" />
+      <item itemvalue="CMake 应用程序.cubic_root" />
+      <item itemvalue="CMake 应用程序.difference" />
+      <item itemvalue="CMake 应用程序.difference_matrix" />
+      <item itemvalue="CMake 应用程序.expression_evaluation" />
+      <item itemvalue="CMake 应用程序.findKth" />
+      <item itemvalue="CMake 应用程序.food_chain" />
+      <item itemvalue="CMake 应用程序.food_chain_2" />
+      <item itemvalue="CMake 应用程序.full_permutation" />
+      <item itemvalue="CMake 应用程序.hash_table_1" />
+      <item itemvalue="CMake 应用程序.hash_table_2" />
+      <item itemvalue="CMake 应用程序.heap_sort" />
+      <item itemvalue="CMake 应用程序.high_precision_add" />
+      <item itemvalue="CMake 应用程序.high_precision_div" />
+      <item itemvalue="CMake 应用程序.high_precision_mul" />
+      <item itemvalue="CMake 应用程序.high_precison_sub" />
+      <item itemvalue="CMake 应用程序.interval_merge" />
+      <item itemvalue="CMake 应用程序.kmp" />
+      <item itemvalue="CMake 应用程序.length_of_longest_sequence" />
+      <item itemvalue="CMake 应用程序.lowbit" />
+      <item itemvalue="CMake 应用程序.max_xor" />
+      <item itemvalue="CMake 应用程序.merge_sort" />
+      <item itemvalue="CMake 应用程序.monotonic_queue" />
+      <item itemvalue="CMake 应用程序.monotonic_stack" />
+      <item itemvalue="CMake 应用程序.n_queen" />
+      <item itemvalue="CMake 应用程序.n_queen_2" />
+      <item itemvalue="CMake 应用程序.num_range" />
+      <item itemvalue="CMake 应用程序.points_in_connected_block" />
+      <item itemvalue="CMake 应用程序.prefix_sum1" />
+      <item itemvalue="CMake 应用程序.queue" />
+      <item itemvalue="CMake 应用程序.quick_sort" />
+      <item itemvalue="CMake 应用程序.reverse_pair" />
+      <item itemvalue="CMake 应用程序.simulation_heap" />
+      <item itemvalue="CMake 应用程序.stack" />
+      <item itemvalue="CMake 应用程序.static_doubly_linklist" />
+      <item itemvalue="CMake 应用程序.static_linklist" />
+      <item itemvalue="CMake 应用程序.string_count" />
+      <item itemvalue="CMake 应用程序.string_hash" />
+      <item itemvalue="CMake 应用程序.sum_of_interval" />
+      <item itemvalue="CMake 应用程序.sum_of_submatrices" />
+      <item itemvalue="CMake 应用程序.sum_of_target" />
+      <item itemvalue="CMake 应用程序.test" />
+      <item itemvalue="CMake 应用程序.union_find_sets" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b7849a-a2e6-4ab0-b3f5-7c332b2918b7" name="Changes" comment="" />
+      <created>1651908749609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651908749609</updated>
+      <workItem from="1651908751937" duration="142000" />
+      <workItem from="1651908901796" duration="1990000" />
+      <workItem from="1651915347758" duration="7863000" />
+      <workItem from="1652759301431" duration="1212000" />
+      <workItem from="1652835860002" duration="1179000" />
+      <workItem from="1652837151334" duration="4591000" />
+      <workItem from="1652853669438" duration="6418000" />
+      <workItem from="1653009590992" duration="113000" />
+      <workItem from="1653009711307" duration="81000" />
+      <workItem from="1653010427980" duration="22177000" />
+      <workItem from="1654582811166" duration="19464000" />
+      <workItem from="1654678685875" duration="1621000" />
+      <workItem from="1654757836177" duration="32799000" />
+      <workItem from="1655195502511" duration="12857000" />
+      <workItem from="1655422149137" duration="18168000" />
+      <workItem from="1655518149865" duration="14294000" />
+      <workItem from="1655692843684" duration="16229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/high_precision_add.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
