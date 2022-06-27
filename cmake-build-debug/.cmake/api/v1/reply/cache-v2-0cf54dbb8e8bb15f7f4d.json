@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing/cmake-build-debug"
+			"value" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing"
+			"value" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing/cmake-build-debug"
+			"value" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug"
 		},
 		{
 			"name" : "acwing_IS_TOP_LEVEL",
@@ -1111,43 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing"
-		},
-		{
-			"name" : "leetcodecpp_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing/cmake-build-debug"
-		},
-		{
-			"name" : "leetcodecpp_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "leetcodecpp_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/gamilian/work/program/cpp-project/acwing"
+			"value" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing"
 		}
 	],
 	"kind" : "cache",

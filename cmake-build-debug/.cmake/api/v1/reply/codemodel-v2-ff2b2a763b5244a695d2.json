@@ -472,8 +472,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/gamilian/work/program/cpp-project/acwing/cmake-build-debug",
-		"source" : "/Users/gamilian/work/program/cpp-project/acwing"
+		"build" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug",
+		"source" : "/Users/gamilian/work/program/cpp-project/acwing-git/acwing"
 	},
 	"version" : 
 	{
