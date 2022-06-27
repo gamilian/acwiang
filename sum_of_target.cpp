@@ -5,8 +5,8 @@ using namespace std;
 vector<int> sum_of_target(vector<int> nums1, vector<int> nums2, int target) {
     int i = 0, j = nums2.size() - 1;
     while (i < nums1.size() && j >= 0) {
-        if (nums1[i] + nums2[j] == target) return {i, j};
         while (nums1[i] + nums2[j] > target) j--;
+        if (nums1[i] + nums2[j] == target) return {i, j};
         i++;
     }
     return {-1, -1};

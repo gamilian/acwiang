@@ -692,6 +692,37 @@ build sum_of_interval: CXX_EXECUTABLE_LINKER__sum_of_interval_Debug CMakeFiles/s
   TARGET_PDB = sum_of_interval.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target cmp_subsequence
+
+
+#############################################
+# Order-only phony target for cmp_subsequence
+
+build cmake_object_order_depends_target_cmp_subsequence: phony || CMakeFiles/cmp_subsequence.dir
+
+build CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o: CXX_COMPILER__cmp_subsequence_Debug /Users/gamilian/work/program/cpp-project/acwing/cmp_subsequence.cpp || cmake_object_order_depends_target_cmp_subsequence
+  DEP_FILE = CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/cmp_subsequence.dir
+  OBJECT_FILE_DIR = CMakeFiles/cmp_subsequence.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target cmp_subsequence
+
+
+#############################################
+# Link the executable cmp_subsequence
+
+build cmp_subsequence: CXX_EXECUTABLE_LINKER__cmp_subsequence_Debug CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/cmp_subsequence.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = cmp_subsequence
+  TARGET_PDB = cmp_subsequence.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target interval_merge
 
 
@@ -1404,6 +1435,99 @@ build n_queen_2: CXX_EXECUTABLE_LINKER__n_queen_2_Debug CMakeFiles/n_queen_2.dir
   TARGET_FILE = n_queen_2
   TARGET_PDB = n_queen_2.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target walk_maze
+
+
+#############################################
+# Order-only phony target for walk_maze
+
+build cmake_object_order_depends_target_walk_maze: phony || CMakeFiles/walk_maze.dir
+
+build CMakeFiles/walk_maze.dir/walk_maze.cpp.o: CXX_COMPILER__walk_maze_Debug /Users/gamilian/work/program/cpp-project/acwing/walk_maze.cpp || cmake_object_order_depends_target_walk_maze
+  DEP_FILE = CMakeFiles/walk_maze.dir/walk_maze.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/walk_maze.dir
+  OBJECT_FILE_DIR = CMakeFiles/walk_maze.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target walk_maze
+
+
+#############################################
+# Link the executable walk_maze
+
+build walk_maze: CXX_EXECUTABLE_LINKER__walk_maze_Debug CMakeFiles/walk_maze.dir/walk_maze.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/walk_maze.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = walk_maze
+  TARGET_PDB = walk_maze.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target walk_maze_path
+
+
+#############################################
+# Order-only phony target for walk_maze_path
+
+build cmake_object_order_depends_target_walk_maze_path: phony || CMakeFiles/walk_maze_path.dir
+
+build CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o: CXX_COMPILER__walk_maze_path_Debug /Users/gamilian/work/program/cpp-project/acwing/walk_maze_path.cpp || cmake_object_order_depends_target_walk_maze_path
+  DEP_FILE = CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/walk_maze_path.dir
+  OBJECT_FILE_DIR = CMakeFiles/walk_maze_path.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target walk_maze_path
+
+
+#############################################
+# Link the executable walk_maze_path
+
+build walk_maze_path: CXX_EXECUTABLE_LINKER__walk_maze_path_Debug CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/walk_maze_path.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = walk_maze_path
+  TARGET_PDB = walk_maze_path.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target eight_digital
+
+
+#############################################
+# Order-only phony target for eight_digital
+
+build cmake_object_order_depends_target_eight_digital: phony || CMakeFiles/eight_digital.dir
+
+build CMakeFiles/eight_digital.dir/eight_digital.cpp.o: CXX_COMPILER__eight_digital_Debug /Users/gamilian/work/program/cpp-project/acwing/eight_digital.cpp || cmake_object_order_depends_target_eight_digital
+  DEP_FILE = CMakeFiles/eight_digital.dir/eight_digital.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/eight_digital.dir
+  OBJECT_FILE_DIR = CMakeFiles/eight_digital.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target eight_digital
+
+
+#############################################
+# Link the executable eight_digital
+
+build eight_digital: CXX_EXECUTABLE_LINKER__eight_digital_Debug CMakeFiles/eight_digital.dir/eight_digital.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/eight_digital.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = eight_digital
+  TARGET_PDB = eight_digital.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1438,7 +1562,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gamilian/work/program/cpp-project/acwing/cmake-build-debug
 
-build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2
+build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval cmp_subsequence interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2 walk_maze walk_maze_path eight_digital
 
 # =============================================================================
 # Built-in targets

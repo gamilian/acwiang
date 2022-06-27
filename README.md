@@ -1,2 +1,0 @@
-# acwing
-code of acwing

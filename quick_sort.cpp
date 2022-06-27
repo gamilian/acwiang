@@ -3,27 +3,31 @@
 
 using namespace std;
 
-int partition(vector<int> &nums, int l, int r) {
-    swap(nums[l], nums[l + ((r - l) >> 1)]);
-    int pivot = nums[l];
-    while (l < r) {
-        while (l < r && nums[r] > pivot) r--;
-        nums[l] = nums[r];
-        while (l < r && nums[l] <= pivot) l++;
-        nums[r] = nums[l];
-    }
-    nums[l] = pivot;
-    return l;
-}
-
-void quick_sort2(vector<int> &nums, int l, int r) {
-    if (l >= r) return;
-    if (l < r) {
-        int pivot = partition(nums, l, r);
-        quick_sort2(nums, l, pivot - 1);
-        quick_sort2(nums, pivot + 1, r);
-    }
-}
+//void quick_sort(vector<int> &nums, int l, int r) {
+//    if (l >= r) return;
+//    swap(nums[l], nums[rand() % (r - l + 1) + l]);
+//    int pivot = nums[l];
+//    int i = l, j = r;
+//    while (l < r) {
+//        while (l < r) {
+//            if (nums[r] > pivot) r--;
+//            else {
+//                nums[l++] = nums[r];
+//                break;
+//            }
+//        }
+//        while (l < r) {
+//            if (nums[l] < pivot) l++;
+//            else {
+//                nums[r--] = nums[l];
+//                break;
+//            }
+//        }
+//    }
+//    nums[l] = pivot;
+//    quick_sort(nums, i, l - 1);
+//    quick_sort(nums, l + 1, j);
+//}
 
 void quick_sort(vector<int> &nums, int l, int r) {
     if (l >= r) return;
@@ -39,8 +43,11 @@ void quick_sort(vector<int> &nums, int l, int r) {
 }
 
 int main() {
-    vector<int> nums = {3, 4, 2, 1, 5};
-    quick_sort2(nums, 0, nums.size() - 1);
+    int n;
+    cin >> n;
+    vector<int> nums(n);
+    for (int i = 0; i < n; i++) cin >> nums[i];
+    quick_sort(nums, 0, nums.size() - 1);
     for (auto const &num: nums)
         cout << num << ' ';
     return 0;

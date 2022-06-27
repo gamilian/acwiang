@@ -21,7 +21,7 @@ vector<int> sub(vector<int> A, vector<int> B) {
         C.emplace_back((cnt + 10) % 10);
         cnt = cnt < 0 ? 1 : 0;
     }
-    while (C.size() > 0 && C.back() == 0) C.pop_back();
+    while (C.size() > 1 && C.back() == 0) C.pop_back();
     return C;
 }
 

@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
@@ -11,7 +12,7 @@ vector<int> div(vector<int> A, int b, int &r) {
         r %= b;
     }
     reverse(C.begin(), C.end());
-    while (C.size() > 0 && C.back() == 0) C.pop_back();
+    while (C.size() > 1 && C.back() == 0) C.pop_back();
     return C;
 }
 

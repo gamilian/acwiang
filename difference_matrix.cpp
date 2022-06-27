@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int N = 10010;
+const int N = 1010;
 int a[N][N], b[N][N];
 
 void insert(int x1, int y1, int x2, int y2, int c) {

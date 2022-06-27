@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -12,10 +12,21 @@ double cubic_root(double x, double l, double r) {
     }
     return l;
 }
+//牛顿迭代法
+//等价于求f(x) = x^3 - c = 0的根
+//t = t - f/(df/dt) = t - (t^3 - c)/(3t^2) = (2t^3 + c)/(3t^2)
+
+double cubic_root(double num){
+    double t = num;
+    for (int i = 0; i < 100; i++)
+        t = (2 * t * t * t + num) / (3 * t * t);
+    return t;
+}
 
 int main() {
     double x;
     cin >> x;
-    cout << cubic_root(x, -1 * x * 100, x * 100);
+    cout<<fixed<<setprecision(6);
+    cout << cubic_root(x, -1100, 1100);
     return 0;
 }

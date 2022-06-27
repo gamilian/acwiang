@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 vector<int> mul(vector<int> A, int b) {
     int cnt = 0;
     vector<int> C;
@@ -16,6 +15,7 @@ vector<int> mul(vector<int> A, int b) {
         C.emplace_back(cnt % 10);
         cnt /= 10;
     }
+    while (C.size() > 1 && C.back() == 0) C.pop_back();
     return C;
 }
 
