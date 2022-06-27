@@ -1,9 +1,10 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
-const int N = 100003, null = 0x3f3f3f3f;
-int n, h[3 * N];
+const int N = 200003, null = 0x3f3f3f3f;
+int n, h[N];
 
 //开方定址法解决冲突
 //返回x在哈希表中的位置，或者x需要插入在哈希表位置
@@ -17,17 +18,19 @@ int find(int x) {
 }
 
 int main(void) {
-    cin >> n;
-    memset(h, 0x3f, size(h));
-    while (n--) {
-        char op;
+    // cin超时需要scanf
+    memset(h, 0x3f, sizeof h);
+    scanf("%d", &n);
+    while (n -- )
+    {
+        char op[2];
         int x;
-        cin >> op >> x;
-        int k = find(x);
-        if (op == 'I') h[k] = x;
-        else {
-            if (h[k] == x) cout << "Yes" << endl;
-            else cout << " No" << endl;
+        scanf("%s%d", op, &x);
+        if (*op == 'I') h[find(x)] = x;
+        else
+        {
+            if (h[find(x)] == null) puts("No");
+            else puts("Yes");
         }
     }
     return 0;

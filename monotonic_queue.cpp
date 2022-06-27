@@ -3,7 +3,7 @@
 using namespace std;
 
 //q[i] 记录队列元素在原数组的下标
-int a[100010], q[100010];
+int a[1000010], q[1000010];
 
 int main() {
     int n, k;

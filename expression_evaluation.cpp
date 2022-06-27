@@ -36,10 +36,7 @@ int main() {
         char ch = str[i];
         if (isdigit(ch)) {
             int x = 0, j = i;
-            while (j < str.size() && isdigit(str[j])) {
-                x += x * 10 + str[j] - '0';
-                j++;
-            }
+            while (j < str.size() && isdigit(str[j])) x = x * 10 + str[j++] - '0';
             nums.push(x);
             i = j - 1;
         } else if (ch == '(') {
@@ -48,7 +45,7 @@ int main() {
             while (ops.top() != '(') eval();
             ops.pop();
         } else {
-            while (ops.size() && pr[ops.top()] >= pr[ch]) eval();
+            while (ops.size() && ops.top() != '(' && pr[ops.top()] >= pr[ch]) eval();
             ops.push(ch);
         }
     }

@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
@@ -19,18 +20,21 @@ bool find(int x) {
 }
 
 int main() {
-    cin >> n;
-    memset(h, -1, size(h));
-    memset(ne, -1, size(ne));
-    while (n--) {
-        char op;
+    scanf("%d", &n);
+    memset(h, -1, sizeof h);
+    while (n -- )
+    {
+        char op[2];
         int x;
-        cin >> op >> x;
-        if (op == 'I') insert(x);
-        else {
-            if (find(x)) cout << "Yes" << endl;
-            else cout << "No" << endl;
+        scanf("%s%d", op, &x);
+
+        if (*op == 'I') insert(x);
+        else
+        {
+            if (find(x)) puts("Yes");
+            else puts("No");
         }
     }
+
     return 0;
 }

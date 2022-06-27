@@ -34,9 +34,9 @@ int main(void) {
         cin >> op;
         if (op == "I") {
             cin >> x;
-            h[++Size] = x;
-            ph[++idx] = Size;
-            hp[Size] = idx;
+            hp[++Size] = ++idx;
+            h[Size] = x;
+            ph[idx] = Size;
             up(Size);
         } else if (op == "PM") {
             cout << h[1] << endl;
@@ -45,12 +45,18 @@ int main(void) {
             down(1);
         } else if (op == "D") {
             cin >> k;
-            swap_heap(ph[k], Size--);
-            down(ph[k]), up(ph[k]);
+            // 必须先保存ph[k]，不然swap_heap之后ph[k]就变了，这样down与up时候的ph[k]就是修改过的值
+            // 故，下面注释代码就是错误的
+            // swap_heap(ph[k], Size--);
+            // down(ph[k]), up(ph[k]);
+            k = ph[k];
+            swap_heap(k, Size--);
+            down(k), up(k);
         } else {
             cin >> k >> x;
-            h[ph[k]] = x;
-            down(ph[k]), up(ph[k]);
+            k = ph[k];
+            h[k] = x;
+            down(k), up(k);
         }
     }
     return 0;

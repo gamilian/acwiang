@@ -94,3 +94,7 @@
 1	377	1653096148218557721	CMakeFiles/high_precision_add.dir/high_precision_add.cpp.o	960dcd14b9ee9ab
 0	376	1656321242763885700	CMakeFiles/acwing.dir/main.cpp.o	b1261ab6d562ff58
 376	411	1656321242800173910	acwing	f9cc48b64276acb6
+1	842	1656332503454771947	CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o	5ca2d00ba420ed95
+842	893	1656332503507981369	expression_evaluation	d393bdecd58fbb4d
+1	566	1656333102654567929	CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o	5ca2d00ba420ed95
+566	599	1656333102689487848	expression_evaluation	d393bdecd58fbb4d
