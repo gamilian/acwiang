@@ -1,20 +1,41 @@
-#include "bits/stdc++.h"
+#include <iostream>
 
 using namespace std;
 
+int a[26];
+
+void init() {
+    for (int i = 0; i < 18; i++) a[i] = i / 3 + 2;
+    a[18] = 7;
+    a[19] = a[20] = a[21] = 8;
+    a[22] = a[23] = a[24] = a[25] = 9;
+}
+
+int get_num(char ch) {
+    int idx = ch - 'a';
+    if (idx >= 0 && idx <= 17) return idx % 3 + 1;
+    else {
+        if (ch == 's' || ch == 'z') return 4;
+        if (ch == 't' || ch == 'w') return 1;
+        if (ch == 'u' || ch == 'x') return 2;
+        if (ch == 'v' || ch == 'y') return 3;
+    }
+}
 
 int main() {
-    int a[3] = {1, 2,  3};
-    //此时定义指针p，*p可以理解是指针，其实本质上int*，是一种指针类型，实际上p是指针
-    //定义指针p时，p指向a[0] = 1所在的内存，即p存放a[0]的地址
-    int *p = a;
-    //指针p的指针指向改变 p指向a[1] = 2所在的内存，即p存放a[1]的地址
-    p = p + 1;
-    //修改p所指向内存内的值，即修改2所在空间；
-    *p = 8;
-    //访问p指向内存的值
-    cout << "*p = " << *p  << " a[1] = " << a[1];
-
-
+    init();
+    string s;
+    while (cin >> s) {
+        int cnt = 0;
+        char pre = s[0];
+        cnt += get_num(pre);
+        for (int i = 1; i < s.size(); i++) {
+            int idx1 = pre - 'a', idx2 = s[i] - 'a';
+            if (a[idx1] == a[idx2]) cnt += 2;
+            cnt += get_num(s[i]);
+            pre = s[i];
+        }
+        cout << cnt << endl;
+    }
     return 0;
 }
