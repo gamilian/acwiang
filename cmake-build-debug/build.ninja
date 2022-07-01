@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_acwing: phony || CMakeFiles/acwing.dir
 
 build CMakeFiles/acwing.dir/main.cpp.o: CXX_COMPILER__acwing_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/main.cpp || cmake_object_order_depends_target_acwing
   DEP_FILE = CMakeFiles/acwing.dir/main.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/acwing.dir
   OBJECT_FILE_DIR = CMakeFiles/acwing.dir
 
@@ -64,7 +64,7 @@ build CMakeFiles/acwing.dir/main.cpp.o: CXX_COMPILER__acwing_Debug /Users/gamili
 # Link the executable acwing
 
 build acwing: CXX_EXECUTABLE_LINKER__acwing_Debug CMakeFiles/acwing.dir/main.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/acwing.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -82,7 +82,7 @@ build cmake_object_order_depends_target_quick_sort: phony || CMakeFiles/quick_so
 
 build CMakeFiles/quick_sort.dir/quick_sort.cpp.o: CXX_COMPILER__quick_sort_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/quick_sort.cpp || cmake_object_order_depends_target_quick_sort
   DEP_FILE = CMakeFiles/quick_sort.dir/quick_sort.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/quick_sort.dir
   OBJECT_FILE_DIR = CMakeFiles/quick_sort.dir
 
@@ -95,7 +95,7 @@ build CMakeFiles/quick_sort.dir/quick_sort.cpp.o: CXX_COMPILER__quick_sort_Debug
 # Link the executable quick_sort
 
 build quick_sort: CXX_EXECUTABLE_LINKER__quick_sort_Debug CMakeFiles/quick_sort.dir/quick_sort.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/quick_sort.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -113,7 +113,7 @@ build cmake_object_order_depends_target_merge_sort: phony || CMakeFiles/merge_so
 
 build CMakeFiles/merge_sort.dir/merge_sort.cpp.o: CXX_COMPILER__merge_sort_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/merge_sort.cpp || cmake_object_order_depends_target_merge_sort
   DEP_FILE = CMakeFiles/merge_sort.dir/merge_sort.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/merge_sort.dir
   OBJECT_FILE_DIR = CMakeFiles/merge_sort.dir
 
@@ -126,7 +126,7 @@ build CMakeFiles/merge_sort.dir/merge_sort.cpp.o: CXX_COMPILER__merge_sort_Debug
 # Link the executable merge_sort
 
 build merge_sort: CXX_EXECUTABLE_LINKER__merge_sort_Debug CMakeFiles/merge_sort.dir/merge_sort.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/merge_sort.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_findKth: phony || CMakeFiles/findKth.dir
 
 build CMakeFiles/findKth.dir/findKth.cpp.o: CXX_COMPILER__findKth_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/findKth.cpp || cmake_object_order_depends_target_findKth
   DEP_FILE = CMakeFiles/findKth.dir/findKth.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/findKth.dir
   OBJECT_FILE_DIR = CMakeFiles/findKth.dir
 
@@ -157,7 +157,7 @@ build CMakeFiles/findKth.dir/findKth.cpp.o: CXX_COMPILER__findKth_Debug /Users/g
 # Link the executable findKth
 
 build findKth: CXX_EXECUTABLE_LINKER__findKth_Debug CMakeFiles/findKth.dir/findKth.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/findKth.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -175,7 +175,7 @@ build cmake_object_order_depends_target_reverse_pair: phony || CMakeFiles/revers
 
 build CMakeFiles/reverse_pair.dir/reverse_pair.cpp.o: CXX_COMPILER__reverse_pair_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/reverse_pair.cpp || cmake_object_order_depends_target_reverse_pair
   DEP_FILE = CMakeFiles/reverse_pair.dir/reverse_pair.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/reverse_pair.dir
   OBJECT_FILE_DIR = CMakeFiles/reverse_pair.dir
 
@@ -188,7 +188,7 @@ build CMakeFiles/reverse_pair.dir/reverse_pair.cpp.o: CXX_COMPILER__reverse_pair
 # Link the executable reverse_pair
 
 build reverse_pair: CXX_EXECUTABLE_LINKER__reverse_pair_Debug CMakeFiles/reverse_pair.dir/reverse_pair.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/reverse_pair.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -206,7 +206,7 @@ build cmake_object_order_depends_target_num_range: phony || CMakeFiles/num_range
 
 build CMakeFiles/num_range.dir/num_range.cpp.o: CXX_COMPILER__num_range_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/num_range.cpp || cmake_object_order_depends_target_num_range
   DEP_FILE = CMakeFiles/num_range.dir/num_range.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/num_range.dir
   OBJECT_FILE_DIR = CMakeFiles/num_range.dir
 
@@ -219,7 +219,7 @@ build CMakeFiles/num_range.dir/num_range.cpp.o: CXX_COMPILER__num_range_Debug /U
 # Link the executable num_range
 
 build num_range: CXX_EXECUTABLE_LINKER__num_range_Debug CMakeFiles/num_range.dir/num_range.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/num_range.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -237,7 +237,7 @@ build cmake_object_order_depends_target_cubic_root: phony || CMakeFiles/cubic_ro
 
 build CMakeFiles/cubic_root.dir/cubic_root.cpp.o: CXX_COMPILER__cubic_root_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cubic_root.cpp || cmake_object_order_depends_target_cubic_root
   DEP_FILE = CMakeFiles/cubic_root.dir/cubic_root.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/cubic_root.dir
   OBJECT_FILE_DIR = CMakeFiles/cubic_root.dir
 
@@ -250,7 +250,7 @@ build CMakeFiles/cubic_root.dir/cubic_root.cpp.o: CXX_COMPILER__cubic_root_Debug
 # Link the executable cubic_root
 
 build cubic_root: CXX_EXECUTABLE_LINKER__cubic_root_Debug CMakeFiles/cubic_root.dir/cubic_root.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/cubic_root.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -268,7 +268,7 @@ build cmake_object_order_depends_target_high_precision_add: phony || CMakeFiles/
 
 build CMakeFiles/high_precision_add.dir/high_precision_add.cpp.o: CXX_COMPILER__high_precision_add_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/high_precision_add.cpp || cmake_object_order_depends_target_high_precision_add
   DEP_FILE = CMakeFiles/high_precision_add.dir/high_precision_add.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/high_precision_add.dir
   OBJECT_FILE_DIR = CMakeFiles/high_precision_add.dir
 
@@ -281,7 +281,7 @@ build CMakeFiles/high_precision_add.dir/high_precision_add.cpp.o: CXX_COMPILER__
 # Link the executable high_precision_add
 
 build high_precision_add: CXX_EXECUTABLE_LINKER__high_precision_add_Debug CMakeFiles/high_precision_add.dir/high_precision_add.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/high_precision_add.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -299,7 +299,7 @@ build cmake_object_order_depends_target_high_precison_sub: phony || CMakeFiles/h
 
 build CMakeFiles/high_precison_sub.dir/high_precison_sub.cpp.o: CXX_COMPILER__high_precison_sub_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/high_precison_sub.cpp || cmake_object_order_depends_target_high_precison_sub
   DEP_FILE = CMakeFiles/high_precison_sub.dir/high_precison_sub.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/high_precison_sub.dir
   OBJECT_FILE_DIR = CMakeFiles/high_precison_sub.dir
 
@@ -312,7 +312,7 @@ build CMakeFiles/high_precison_sub.dir/high_precison_sub.cpp.o: CXX_COMPILER__hi
 # Link the executable high_precison_sub
 
 build high_precison_sub: CXX_EXECUTABLE_LINKER__high_precison_sub_Debug CMakeFiles/high_precison_sub.dir/high_precison_sub.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/high_precison_sub.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -330,7 +330,7 @@ build cmake_object_order_depends_target_high_precision_mul: phony || CMakeFiles/
 
 build CMakeFiles/high_precision_mul.dir/high_precision_mul.cpp.o: CXX_COMPILER__high_precision_mul_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/high_precision_mul.cpp || cmake_object_order_depends_target_high_precision_mul
   DEP_FILE = CMakeFiles/high_precision_mul.dir/high_precision_mul.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/high_precision_mul.dir
   OBJECT_FILE_DIR = CMakeFiles/high_precision_mul.dir
 
@@ -343,7 +343,7 @@ build CMakeFiles/high_precision_mul.dir/high_precision_mul.cpp.o: CXX_COMPILER__
 # Link the executable high_precision_mul
 
 build high_precision_mul: CXX_EXECUTABLE_LINKER__high_precision_mul_Debug CMakeFiles/high_precision_mul.dir/high_precision_mul.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/high_precision_mul.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -361,7 +361,7 @@ build cmake_object_order_depends_target_high_precision_div: phony || CMakeFiles/
 
 build CMakeFiles/high_precision_div.dir/high_precision_div.cpp.o: CXX_COMPILER__high_precision_div_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/high_precision_div.cpp || cmake_object_order_depends_target_high_precision_div
   DEP_FILE = CMakeFiles/high_precision_div.dir/high_precision_div.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/high_precision_div.dir
   OBJECT_FILE_DIR = CMakeFiles/high_precision_div.dir
 
@@ -374,7 +374,7 @@ build CMakeFiles/high_precision_div.dir/high_precision_div.cpp.o: CXX_COMPILER__
 # Link the executable high_precision_div
 
 build high_precision_div: CXX_EXECUTABLE_LINKER__high_precision_div_Debug CMakeFiles/high_precision_div.dir/high_precision_div.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/high_precision_div.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -392,7 +392,7 @@ build cmake_object_order_depends_target_prefix_sum1: phony || CMakeFiles/prefix_
 
 build CMakeFiles/prefix_sum1.dir/prefix_sum1.cpp.o: CXX_COMPILER__prefix_sum1_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/prefix_sum1.cpp || cmake_object_order_depends_target_prefix_sum1
   DEP_FILE = CMakeFiles/prefix_sum1.dir/prefix_sum1.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/prefix_sum1.dir
   OBJECT_FILE_DIR = CMakeFiles/prefix_sum1.dir
 
@@ -405,7 +405,7 @@ build CMakeFiles/prefix_sum1.dir/prefix_sum1.cpp.o: CXX_COMPILER__prefix_sum1_De
 # Link the executable prefix_sum1
 
 build prefix_sum1: CXX_EXECUTABLE_LINKER__prefix_sum1_Debug CMakeFiles/prefix_sum1.dir/prefix_sum1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/prefix_sum1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -423,7 +423,7 @@ build cmake_object_order_depends_target_sum_of_submatrices: phony || CMakeFiles/
 
 build CMakeFiles/sum_of_submatrices.dir/sum_of_submatrices.cpp.o: CXX_COMPILER__sum_of_submatrices_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/sum_of_submatrices.cpp || cmake_object_order_depends_target_sum_of_submatrices
   DEP_FILE = CMakeFiles/sum_of_submatrices.dir/sum_of_submatrices.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/sum_of_submatrices.dir
   OBJECT_FILE_DIR = CMakeFiles/sum_of_submatrices.dir
 
@@ -436,7 +436,7 @@ build CMakeFiles/sum_of_submatrices.dir/sum_of_submatrices.cpp.o: CXX_COMPILER__
 # Link the executable sum_of_submatrices
 
 build sum_of_submatrices: CXX_EXECUTABLE_LINKER__sum_of_submatrices_Debug CMakeFiles/sum_of_submatrices.dir/sum_of_submatrices.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/sum_of_submatrices.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -454,7 +454,7 @@ build cmake_object_order_depends_target_test: phony || CMakeFiles/test.dir
 
 build CMakeFiles/test.dir/test.cpp.o: CXX_COMPILER__test_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/test.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/test.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir
 
@@ -467,7 +467,7 @@ build CMakeFiles/test.dir/test.cpp.o: CXX_COMPILER__test_Debug /Users/gamilian/w
 # Link the executable test
 
 build test: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/test.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/test.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -485,7 +485,7 @@ build cmake_object_order_depends_target_difference: phony || CMakeFiles/differen
 
 build CMakeFiles/difference.dir/difference.cpp.o: CXX_COMPILER__difference_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/difference.cpp || cmake_object_order_depends_target_difference
   DEP_FILE = CMakeFiles/difference.dir/difference.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/difference.dir
   OBJECT_FILE_DIR = CMakeFiles/difference.dir
 
@@ -498,7 +498,7 @@ build CMakeFiles/difference.dir/difference.cpp.o: CXX_COMPILER__difference_Debug
 # Link the executable difference
 
 build difference: CXX_EXECUTABLE_LINKER__difference_Debug CMakeFiles/difference.dir/difference.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/difference.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -516,7 +516,7 @@ build cmake_object_order_depends_target_difference_matrix: phony || CMakeFiles/d
 
 build CMakeFiles/difference_matrix.dir/difference_matrix.cpp.o: CXX_COMPILER__difference_matrix_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/difference_matrix.cpp || cmake_object_order_depends_target_difference_matrix
   DEP_FILE = CMakeFiles/difference_matrix.dir/difference_matrix.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/difference_matrix.dir
   OBJECT_FILE_DIR = CMakeFiles/difference_matrix.dir
 
@@ -529,7 +529,7 @@ build CMakeFiles/difference_matrix.dir/difference_matrix.cpp.o: CXX_COMPILER__di
 # Link the executable difference_matrix
 
 build difference_matrix: CXX_EXECUTABLE_LINKER__difference_matrix_Debug CMakeFiles/difference_matrix.dir/difference_matrix.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/difference_matrix.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -547,7 +547,7 @@ build cmake_object_order_depends_target_length_of_longest_sequence: phony || CMa
 
 build CMakeFiles/length_of_longest_sequence.dir/length_of_longest_sequence.cpp.o: CXX_COMPILER__length_of_longest_sequence_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/length_of_longest_sequence.cpp || cmake_object_order_depends_target_length_of_longest_sequence
   DEP_FILE = CMakeFiles/length_of_longest_sequence.dir/length_of_longest_sequence.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/length_of_longest_sequence.dir
   OBJECT_FILE_DIR = CMakeFiles/length_of_longest_sequence.dir
 
@@ -560,7 +560,7 @@ build CMakeFiles/length_of_longest_sequence.dir/length_of_longest_sequence.cpp.o
 # Link the executable length_of_longest_sequence
 
 build length_of_longest_sequence: CXX_EXECUTABLE_LINKER__length_of_longest_sequence_Debug CMakeFiles/length_of_longest_sequence.dir/length_of_longest_sequence.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/length_of_longest_sequence.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -578,7 +578,7 @@ build cmake_object_order_depends_target_sum_of_target: phony || CMakeFiles/sum_o
 
 build CMakeFiles/sum_of_target.dir/sum_of_target.cpp.o: CXX_COMPILER__sum_of_target_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/sum_of_target.cpp || cmake_object_order_depends_target_sum_of_target
   DEP_FILE = CMakeFiles/sum_of_target.dir/sum_of_target.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/sum_of_target.dir
   OBJECT_FILE_DIR = CMakeFiles/sum_of_target.dir
 
@@ -591,7 +591,7 @@ build CMakeFiles/sum_of_target.dir/sum_of_target.cpp.o: CXX_COMPILER__sum_of_tar
 # Link the executable sum_of_target
 
 build sum_of_target: CXX_EXECUTABLE_LINKER__sum_of_target_Debug CMakeFiles/sum_of_target.dir/sum_of_target.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/sum_of_target.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -609,7 +609,7 @@ build cmake_object_order_depends_target_binary_of_kth: phony || CMakeFiles/binar
 
 build CMakeFiles/binary_of_kth.dir/binary_of_kth.cpp.o: CXX_COMPILER__binary_of_kth_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/binary_of_kth.cpp || cmake_object_order_depends_target_binary_of_kth
   DEP_FILE = CMakeFiles/binary_of_kth.dir/binary_of_kth.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/binary_of_kth.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_of_kth.dir
 
@@ -622,7 +622,7 @@ build CMakeFiles/binary_of_kth.dir/binary_of_kth.cpp.o: CXX_COMPILER__binary_of_
 # Link the executable binary_of_kth
 
 build binary_of_kth: CXX_EXECUTABLE_LINKER__binary_of_kth_Debug CMakeFiles/binary_of_kth.dir/binary_of_kth.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/binary_of_kth.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -640,7 +640,7 @@ build cmake_object_order_depends_target_lowbit: phony || CMakeFiles/lowbit.dir
 
 build CMakeFiles/lowbit.dir/lowbit.cpp.o: CXX_COMPILER__lowbit_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/lowbit.cpp || cmake_object_order_depends_target_lowbit
   DEP_FILE = CMakeFiles/lowbit.dir/lowbit.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/lowbit.dir
   OBJECT_FILE_DIR = CMakeFiles/lowbit.dir
 
@@ -653,7 +653,7 @@ build CMakeFiles/lowbit.dir/lowbit.cpp.o: CXX_COMPILER__lowbit_Debug /Users/gami
 # Link the executable lowbit
 
 build lowbit: CXX_EXECUTABLE_LINKER__lowbit_Debug CMakeFiles/lowbit.dir/lowbit.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/lowbit.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -671,7 +671,7 @@ build cmake_object_order_depends_target_sum_of_interval: phony || CMakeFiles/sum
 
 build CMakeFiles/sum_of_interval.dir/sum_of_interval.cpp.o: CXX_COMPILER__sum_of_interval_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/sum_of_interval.cpp || cmake_object_order_depends_target_sum_of_interval
   DEP_FILE = CMakeFiles/sum_of_interval.dir/sum_of_interval.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/sum_of_interval.dir
   OBJECT_FILE_DIR = CMakeFiles/sum_of_interval.dir
 
@@ -684,7 +684,7 @@ build CMakeFiles/sum_of_interval.dir/sum_of_interval.cpp.o: CXX_COMPILER__sum_of
 # Link the executable sum_of_interval
 
 build sum_of_interval: CXX_EXECUTABLE_LINKER__sum_of_interval_Debug CMakeFiles/sum_of_interval.dir/sum_of_interval.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/sum_of_interval.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -702,7 +702,7 @@ build cmake_object_order_depends_target_cmp_subsequence: phony || CMakeFiles/cmp
 
 build CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o: CXX_COMPILER__cmp_subsequence_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmp_subsequence.cpp || cmake_object_order_depends_target_cmp_subsequence
   DEP_FILE = CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/cmp_subsequence.dir
   OBJECT_FILE_DIR = CMakeFiles/cmp_subsequence.dir
 
@@ -715,7 +715,7 @@ build CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o: CXX_COMPILER__cmp_su
 # Link the executable cmp_subsequence
 
 build cmp_subsequence: CXX_EXECUTABLE_LINKER__cmp_subsequence_Debug CMakeFiles/cmp_subsequence.dir/cmp_subsequence.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/cmp_subsequence.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -733,7 +733,7 @@ build cmake_object_order_depends_target_interval_merge: phony || CMakeFiles/inte
 
 build CMakeFiles/interval_merge.dir/interval_merge.cpp.o: CXX_COMPILER__interval_merge_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/interval_merge.cpp || cmake_object_order_depends_target_interval_merge
   DEP_FILE = CMakeFiles/interval_merge.dir/interval_merge.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/interval_merge.dir
   OBJECT_FILE_DIR = CMakeFiles/interval_merge.dir
 
@@ -746,7 +746,7 @@ build CMakeFiles/interval_merge.dir/interval_merge.cpp.o: CXX_COMPILER__interval
 # Link the executable interval_merge
 
 build interval_merge: CXX_EXECUTABLE_LINKER__interval_merge_Debug CMakeFiles/interval_merge.dir/interval_merge.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/interval_merge.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -764,7 +764,7 @@ build cmake_object_order_depends_target_static_linklist: phony || CMakeFiles/sta
 
 build CMakeFiles/static_linklist.dir/static_linklist.cpp.o: CXX_COMPILER__static_linklist_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/static_linklist.cpp || cmake_object_order_depends_target_static_linklist
   DEP_FILE = CMakeFiles/static_linklist.dir/static_linklist.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/static_linklist.dir
   OBJECT_FILE_DIR = CMakeFiles/static_linklist.dir
 
@@ -777,7 +777,7 @@ build CMakeFiles/static_linklist.dir/static_linklist.cpp.o: CXX_COMPILER__static
 # Link the executable static_linklist
 
 build static_linklist: CXX_EXECUTABLE_LINKER__static_linklist_Debug CMakeFiles/static_linklist.dir/static_linklist.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/static_linklist.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -795,7 +795,7 @@ build cmake_object_order_depends_target_static_doubly_linklist: phony || CMakeFi
 
 build CMakeFiles/static_doubly_linklist.dir/static_doubly_linklist.cpp.o: CXX_COMPILER__static_doubly_linklist_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/static_doubly_linklist.cpp || cmake_object_order_depends_target_static_doubly_linklist
   DEP_FILE = CMakeFiles/static_doubly_linklist.dir/static_doubly_linklist.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/static_doubly_linklist.dir
   OBJECT_FILE_DIR = CMakeFiles/static_doubly_linklist.dir
 
@@ -808,7 +808,7 @@ build CMakeFiles/static_doubly_linklist.dir/static_doubly_linklist.cpp.o: CXX_CO
 # Link the executable static_doubly_linklist
 
 build static_doubly_linklist: CXX_EXECUTABLE_LINKER__static_doubly_linklist_Debug CMakeFiles/static_doubly_linklist.dir/static_doubly_linklist.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/static_doubly_linklist.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -826,7 +826,7 @@ build cmake_object_order_depends_target_stack: phony || CMakeFiles/stack.dir
 
 build CMakeFiles/stack.dir/stack.cpp.o: CXX_COMPILER__stack_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/stack.cpp || cmake_object_order_depends_target_stack
   DEP_FILE = CMakeFiles/stack.dir/stack.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/stack.dir
   OBJECT_FILE_DIR = CMakeFiles/stack.dir
 
@@ -839,7 +839,7 @@ build CMakeFiles/stack.dir/stack.cpp.o: CXX_COMPILER__stack_Debug /Users/gamilia
 # Link the executable stack
 
 build stack: CXX_EXECUTABLE_LINKER__stack_Debug CMakeFiles/stack.dir/stack.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/stack.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -857,7 +857,7 @@ build cmake_object_order_depends_target_expression_evaluation: phony || CMakeFil
 
 build CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o: CXX_COMPILER__expression_evaluation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/expression_evaluation.cpp || cmake_object_order_depends_target_expression_evaluation
   DEP_FILE = CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/expression_evaluation.dir
   OBJECT_FILE_DIR = CMakeFiles/expression_evaluation.dir
 
@@ -870,7 +870,7 @@ build CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o: CXX_COMP
 # Link the executable expression_evaluation
 
 build expression_evaluation: CXX_EXECUTABLE_LINKER__expression_evaluation_Debug CMakeFiles/expression_evaluation.dir/expression_evaluation.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/expression_evaluation.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -888,7 +888,7 @@ build cmake_object_order_depends_target_queue: phony || CMakeFiles/queue.dir
 
 build CMakeFiles/queue.dir/queue.cpp.o: CXX_COMPILER__queue_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/queue.cpp || cmake_object_order_depends_target_queue
   DEP_FILE = CMakeFiles/queue.dir/queue.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/queue.dir
   OBJECT_FILE_DIR = CMakeFiles/queue.dir
 
@@ -901,7 +901,7 @@ build CMakeFiles/queue.dir/queue.cpp.o: CXX_COMPILER__queue_Debug /Users/gamilia
 # Link the executable queue
 
 build queue: CXX_EXECUTABLE_LINKER__queue_Debug CMakeFiles/queue.dir/queue.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/queue.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -919,7 +919,7 @@ build cmake_object_order_depends_target_monotonic_stack: phony || CMakeFiles/mon
 
 build CMakeFiles/monotonic_stack.dir/monotonic_stack.cpp.o: CXX_COMPILER__monotonic_stack_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/monotonic_stack.cpp || cmake_object_order_depends_target_monotonic_stack
   DEP_FILE = CMakeFiles/monotonic_stack.dir/monotonic_stack.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/monotonic_stack.dir
   OBJECT_FILE_DIR = CMakeFiles/monotonic_stack.dir
 
@@ -932,7 +932,7 @@ build CMakeFiles/monotonic_stack.dir/monotonic_stack.cpp.o: CXX_COMPILER__monoto
 # Link the executable monotonic_stack
 
 build monotonic_stack: CXX_EXECUTABLE_LINKER__monotonic_stack_Debug CMakeFiles/monotonic_stack.dir/monotonic_stack.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/monotonic_stack.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -950,7 +950,7 @@ build cmake_object_order_depends_target_monotonic_queue: phony || CMakeFiles/mon
 
 build CMakeFiles/monotonic_queue.dir/monotonic_queue.cpp.o: CXX_COMPILER__monotonic_queue_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/monotonic_queue.cpp || cmake_object_order_depends_target_monotonic_queue
   DEP_FILE = CMakeFiles/monotonic_queue.dir/monotonic_queue.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/monotonic_queue.dir
   OBJECT_FILE_DIR = CMakeFiles/monotonic_queue.dir
 
@@ -963,7 +963,7 @@ build CMakeFiles/monotonic_queue.dir/monotonic_queue.cpp.o: CXX_COMPILER__monoto
 # Link the executable monotonic_queue
 
 build monotonic_queue: CXX_EXECUTABLE_LINKER__monotonic_queue_Debug CMakeFiles/monotonic_queue.dir/monotonic_queue.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/monotonic_queue.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -981,7 +981,7 @@ build cmake_object_order_depends_target_kmp: phony || CMakeFiles/kmp.dir
 
 build CMakeFiles/kmp.dir/kmp.cpp.o: CXX_COMPILER__kmp_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/kmp.cpp || cmake_object_order_depends_target_kmp
   DEP_FILE = CMakeFiles/kmp.dir/kmp.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/kmp.dir
   OBJECT_FILE_DIR = CMakeFiles/kmp.dir
 
@@ -994,7 +994,7 @@ build CMakeFiles/kmp.dir/kmp.cpp.o: CXX_COMPILER__kmp_Debug /Users/gamilian/work
 # Link the executable kmp
 
 build kmp: CXX_EXECUTABLE_LINKER__kmp_Debug CMakeFiles/kmp.dir/kmp.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/kmp.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1012,7 +1012,7 @@ build cmake_object_order_depends_target_string_count: phony || CMakeFiles/string
 
 build CMakeFiles/string_count.dir/string_count.cpp.o: CXX_COMPILER__string_count_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/string_count.cpp || cmake_object_order_depends_target_string_count
   DEP_FILE = CMakeFiles/string_count.dir/string_count.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/string_count.dir
   OBJECT_FILE_DIR = CMakeFiles/string_count.dir
 
@@ -1025,7 +1025,7 @@ build CMakeFiles/string_count.dir/string_count.cpp.o: CXX_COMPILER__string_count
 # Link the executable string_count
 
 build string_count: CXX_EXECUTABLE_LINKER__string_count_Debug CMakeFiles/string_count.dir/string_count.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/string_count.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1043,7 +1043,7 @@ build cmake_object_order_depends_target_max_xor: phony || CMakeFiles/max_xor.dir
 
 build CMakeFiles/max_xor.dir/max_xor.cpp.o: CXX_COMPILER__max_xor_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/max_xor.cpp || cmake_object_order_depends_target_max_xor
   DEP_FILE = CMakeFiles/max_xor.dir/max_xor.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/max_xor.dir
   OBJECT_FILE_DIR = CMakeFiles/max_xor.dir
 
@@ -1056,7 +1056,7 @@ build CMakeFiles/max_xor.dir/max_xor.cpp.o: CXX_COMPILER__max_xor_Debug /Users/g
 # Link the executable max_xor
 
 build max_xor: CXX_EXECUTABLE_LINKER__max_xor_Debug CMakeFiles/max_xor.dir/max_xor.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/max_xor.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1074,7 +1074,7 @@ build cmake_object_order_depends_target_union_find_sets: phony || CMakeFiles/uni
 
 build CMakeFiles/union_find_sets.dir/union_find_sets.cpp.o: CXX_COMPILER__union_find_sets_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/union_find_sets.cpp || cmake_object_order_depends_target_union_find_sets
   DEP_FILE = CMakeFiles/union_find_sets.dir/union_find_sets.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/union_find_sets.dir
   OBJECT_FILE_DIR = CMakeFiles/union_find_sets.dir
 
@@ -1087,7 +1087,7 @@ build CMakeFiles/union_find_sets.dir/union_find_sets.cpp.o: CXX_COMPILER__union_
 # Link the executable union_find_sets
 
 build union_find_sets: CXX_EXECUTABLE_LINKER__union_find_sets_Debug CMakeFiles/union_find_sets.dir/union_find_sets.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/union_find_sets.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1105,7 +1105,7 @@ build cmake_object_order_depends_target_points_in_connected_block: phony || CMak
 
 build CMakeFiles/points_in_connected_block.dir/points_in_connected_block.cpp.o: CXX_COMPILER__points_in_connected_block_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/points_in_connected_block.cpp || cmake_object_order_depends_target_points_in_connected_block
   DEP_FILE = CMakeFiles/points_in_connected_block.dir/points_in_connected_block.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/points_in_connected_block.dir
   OBJECT_FILE_DIR = CMakeFiles/points_in_connected_block.dir
 
@@ -1118,7 +1118,7 @@ build CMakeFiles/points_in_connected_block.dir/points_in_connected_block.cpp.o: 
 # Link the executable points_in_connected_block
 
 build points_in_connected_block: CXX_EXECUTABLE_LINKER__points_in_connected_block_Debug CMakeFiles/points_in_connected_block.dir/points_in_connected_block.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/points_in_connected_block.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1136,7 +1136,7 @@ build cmake_object_order_depends_target_food_chain: phony || CMakeFiles/food_cha
 
 build CMakeFiles/food_chain.dir/food_chain.cpp.o: CXX_COMPILER__food_chain_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/food_chain.cpp || cmake_object_order_depends_target_food_chain
   DEP_FILE = CMakeFiles/food_chain.dir/food_chain.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/food_chain.dir
   OBJECT_FILE_DIR = CMakeFiles/food_chain.dir
 
@@ -1149,7 +1149,7 @@ build CMakeFiles/food_chain.dir/food_chain.cpp.o: CXX_COMPILER__food_chain_Debug
 # Link the executable food_chain
 
 build food_chain: CXX_EXECUTABLE_LINKER__food_chain_Debug CMakeFiles/food_chain.dir/food_chain.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/food_chain.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1167,7 +1167,7 @@ build cmake_object_order_depends_target_food_chain_2: phony || CMakeFiles/food_c
 
 build CMakeFiles/food_chain_2.dir/food_chain_2.cpp.o: CXX_COMPILER__food_chain_2_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/food_chain_2.cpp || cmake_object_order_depends_target_food_chain_2
   DEP_FILE = CMakeFiles/food_chain_2.dir/food_chain_2.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/food_chain_2.dir
   OBJECT_FILE_DIR = CMakeFiles/food_chain_2.dir
 
@@ -1180,7 +1180,7 @@ build CMakeFiles/food_chain_2.dir/food_chain_2.cpp.o: CXX_COMPILER__food_chain_2
 # Link the executable food_chain_2
 
 build food_chain_2: CXX_EXECUTABLE_LINKER__food_chain_2_Debug CMakeFiles/food_chain_2.dir/food_chain_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/food_chain_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1198,7 +1198,7 @@ build cmake_object_order_depends_target_heap_sort: phony || CMakeFiles/heap_sort
 
 build CMakeFiles/heap_sort.dir/heap_sort.cpp.o: CXX_COMPILER__heap_sort_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/heap_sort.cpp || cmake_object_order_depends_target_heap_sort
   DEP_FILE = CMakeFiles/heap_sort.dir/heap_sort.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/heap_sort.dir
   OBJECT_FILE_DIR = CMakeFiles/heap_sort.dir
 
@@ -1211,7 +1211,7 @@ build CMakeFiles/heap_sort.dir/heap_sort.cpp.o: CXX_COMPILER__heap_sort_Debug /U
 # Link the executable heap_sort
 
 build heap_sort: CXX_EXECUTABLE_LINKER__heap_sort_Debug CMakeFiles/heap_sort.dir/heap_sort.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/heap_sort.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1229,7 +1229,7 @@ build cmake_object_order_depends_target_simulation_heap: phony || CMakeFiles/sim
 
 build CMakeFiles/simulation_heap.dir/simulation_heap.cpp.o: CXX_COMPILER__simulation_heap_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/simulation_heap.cpp || cmake_object_order_depends_target_simulation_heap
   DEP_FILE = CMakeFiles/simulation_heap.dir/simulation_heap.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/simulation_heap.dir
   OBJECT_FILE_DIR = CMakeFiles/simulation_heap.dir
 
@@ -1242,7 +1242,7 @@ build CMakeFiles/simulation_heap.dir/simulation_heap.cpp.o: CXX_COMPILER__simula
 # Link the executable simulation_heap
 
 build simulation_heap: CXX_EXECUTABLE_LINKER__simulation_heap_Debug CMakeFiles/simulation_heap.dir/simulation_heap.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/simulation_heap.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1260,7 +1260,7 @@ build cmake_object_order_depends_target_hash_table_1: phony || CMakeFiles/hash_t
 
 build CMakeFiles/hash_table_1.dir/hash_table_1.cpp.o: CXX_COMPILER__hash_table_1_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/hash_table_1.cpp || cmake_object_order_depends_target_hash_table_1
   DEP_FILE = CMakeFiles/hash_table_1.dir/hash_table_1.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/hash_table_1.dir
   OBJECT_FILE_DIR = CMakeFiles/hash_table_1.dir
 
@@ -1273,7 +1273,7 @@ build CMakeFiles/hash_table_1.dir/hash_table_1.cpp.o: CXX_COMPILER__hash_table_1
 # Link the executable hash_table_1
 
 build hash_table_1: CXX_EXECUTABLE_LINKER__hash_table_1_Debug CMakeFiles/hash_table_1.dir/hash_table_1.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/hash_table_1.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1291,7 +1291,7 @@ build cmake_object_order_depends_target_hash_table_2: phony || CMakeFiles/hash_t
 
 build CMakeFiles/hash_table_2.dir/hash_table_2.cpp.o: CXX_COMPILER__hash_table_2_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/hash_table_2.cpp || cmake_object_order_depends_target_hash_table_2
   DEP_FILE = CMakeFiles/hash_table_2.dir/hash_table_2.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/hash_table_2.dir
   OBJECT_FILE_DIR = CMakeFiles/hash_table_2.dir
 
@@ -1304,7 +1304,7 @@ build CMakeFiles/hash_table_2.dir/hash_table_2.cpp.o: CXX_COMPILER__hash_table_2
 # Link the executable hash_table_2
 
 build hash_table_2: CXX_EXECUTABLE_LINKER__hash_table_2_Debug CMakeFiles/hash_table_2.dir/hash_table_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/hash_table_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1322,7 +1322,7 @@ build cmake_object_order_depends_target_string_hash: phony || CMakeFiles/string_
 
 build CMakeFiles/string_hash.dir/string_hash.cpp.o: CXX_COMPILER__string_hash_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/string_hash.cpp || cmake_object_order_depends_target_string_hash
   DEP_FILE = CMakeFiles/string_hash.dir/string_hash.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/string_hash.dir
   OBJECT_FILE_DIR = CMakeFiles/string_hash.dir
 
@@ -1335,7 +1335,7 @@ build CMakeFiles/string_hash.dir/string_hash.cpp.o: CXX_COMPILER__string_hash_De
 # Link the executable string_hash
 
 build string_hash: CXX_EXECUTABLE_LINKER__string_hash_Debug CMakeFiles/string_hash.dir/string_hash.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/string_hash.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1353,7 +1353,7 @@ build cmake_object_order_depends_target_full_permutation: phony || CMakeFiles/fu
 
 build CMakeFiles/full_permutation.dir/full_permutation.cpp.o: CXX_COMPILER__full_permutation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/full_permutation.cpp || cmake_object_order_depends_target_full_permutation
   DEP_FILE = CMakeFiles/full_permutation.dir/full_permutation.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/full_permutation.dir
   OBJECT_FILE_DIR = CMakeFiles/full_permutation.dir
 
@@ -1366,7 +1366,7 @@ build CMakeFiles/full_permutation.dir/full_permutation.cpp.o: CXX_COMPILER__full
 # Link the executable full_permutation
 
 build full_permutation: CXX_EXECUTABLE_LINKER__full_permutation_Debug CMakeFiles/full_permutation.dir/full_permutation.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/full_permutation.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1384,7 +1384,7 @@ build cmake_object_order_depends_target_n_queen: phony || CMakeFiles/n_queen.dir
 
 build CMakeFiles/n_queen.dir/n_queen.cpp.o: CXX_COMPILER__n_queen_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/n_queen.cpp || cmake_object_order_depends_target_n_queen
   DEP_FILE = CMakeFiles/n_queen.dir/n_queen.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/n_queen.dir
   OBJECT_FILE_DIR = CMakeFiles/n_queen.dir
 
@@ -1397,7 +1397,7 @@ build CMakeFiles/n_queen.dir/n_queen.cpp.o: CXX_COMPILER__n_queen_Debug /Users/g
 # Link the executable n_queen
 
 build n_queen: CXX_EXECUTABLE_LINKER__n_queen_Debug CMakeFiles/n_queen.dir/n_queen.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/n_queen.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1415,7 +1415,7 @@ build cmake_object_order_depends_target_n_queen_2: phony || CMakeFiles/n_queen_2
 
 build CMakeFiles/n_queen_2.dir/n_queen_2.cpp.o: CXX_COMPILER__n_queen_2_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/n_queen_2.cpp || cmake_object_order_depends_target_n_queen_2
   DEP_FILE = CMakeFiles/n_queen_2.dir/n_queen_2.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/n_queen_2.dir
   OBJECT_FILE_DIR = CMakeFiles/n_queen_2.dir
 
@@ -1428,7 +1428,7 @@ build CMakeFiles/n_queen_2.dir/n_queen_2.cpp.o: CXX_COMPILER__n_queen_2_Debug /U
 # Link the executable n_queen_2
 
 build n_queen_2: CXX_EXECUTABLE_LINKER__n_queen_2_Debug CMakeFiles/n_queen_2.dir/n_queen_2.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/n_queen_2.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1446,7 +1446,7 @@ build cmake_object_order_depends_target_walk_maze: phony || CMakeFiles/walk_maze
 
 build CMakeFiles/walk_maze.dir/walk_maze.cpp.o: CXX_COMPILER__walk_maze_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/walk_maze.cpp || cmake_object_order_depends_target_walk_maze
   DEP_FILE = CMakeFiles/walk_maze.dir/walk_maze.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/walk_maze.dir
   OBJECT_FILE_DIR = CMakeFiles/walk_maze.dir
 
@@ -1459,7 +1459,7 @@ build CMakeFiles/walk_maze.dir/walk_maze.cpp.o: CXX_COMPILER__walk_maze_Debug /U
 # Link the executable walk_maze
 
 build walk_maze: CXX_EXECUTABLE_LINKER__walk_maze_Debug CMakeFiles/walk_maze.dir/walk_maze.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/walk_maze.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1477,7 +1477,7 @@ build cmake_object_order_depends_target_walk_maze_path: phony || CMakeFiles/walk
 
 build CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o: CXX_COMPILER__walk_maze_path_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/walk_maze_path.cpp || cmake_object_order_depends_target_walk_maze_path
   DEP_FILE = CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/walk_maze_path.dir
   OBJECT_FILE_DIR = CMakeFiles/walk_maze_path.dir
 
@@ -1490,7 +1490,7 @@ build CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o: CXX_COMPILER__walk_maz
 # Link the executable walk_maze_path
 
 build walk_maze_path: CXX_EXECUTABLE_LINKER__walk_maze_path_Debug CMakeFiles/walk_maze_path.dir/walk_maze_path.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/walk_maze_path.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1508,7 +1508,7 @@ build cmake_object_order_depends_target_eight_digital: phony || CMakeFiles/eight
 
 build CMakeFiles/eight_digital.dir/eight_digital.cpp.o: CXX_COMPILER__eight_digital_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/eight_digital.cpp || cmake_object_order_depends_target_eight_digital
   DEP_FILE = CMakeFiles/eight_digital.dir/eight_digital.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/eight_digital.dir
   OBJECT_FILE_DIR = CMakeFiles/eight_digital.dir
 
@@ -1521,7 +1521,7 @@ build CMakeFiles/eight_digital.dir/eight_digital.cpp.o: CXX_COMPILER__eight_digi
 # Link the executable eight_digital
 
 build eight_digital: CXX_EXECUTABLE_LINKER__eight_digital_Debug CMakeFiles/eight_digital.dir/eight_digital.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/eight_digital.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1539,7 +1539,7 @@ build cmake_object_order_depends_target_gravity_tree: phony || CMakeFiles/gravit
 
 build CMakeFiles/gravity_tree.dir/gravity_tree.cpp.o: CXX_COMPILER__gravity_tree_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/gravity_tree.cpp || cmake_object_order_depends_target_gravity_tree
   DEP_FILE = CMakeFiles/gravity_tree.dir/gravity_tree.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/gravity_tree.dir
   OBJECT_FILE_DIR = CMakeFiles/gravity_tree.dir
 
@@ -1552,7 +1552,7 @@ build CMakeFiles/gravity_tree.dir/gravity_tree.cpp.o: CXX_COMPILER__gravity_tree
 # Link the executable gravity_tree
 
 build gravity_tree: CXX_EXECUTABLE_LINKER__gravity_tree_Debug CMakeFiles/gravity_tree.dir/gravity_tree.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/gravity_tree.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1570,7 +1570,7 @@ build cmake_object_order_depends_target_graph_level: phony || CMakeFiles/graph_l
 
 build CMakeFiles/graph_level.dir/graph_level.cpp.o: CXX_COMPILER__graph_level_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/graph_level.cpp || cmake_object_order_depends_target_graph_level
   DEP_FILE = CMakeFiles/graph_level.dir/graph_level.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/graph_level.dir
   OBJECT_FILE_DIR = CMakeFiles/graph_level.dir
 
@@ -1583,7 +1583,7 @@ build CMakeFiles/graph_level.dir/graph_level.cpp.o: CXX_COMPILER__graph_level_De
 # Link the executable graph_level
 
 build graph_level: CXX_EXECUTABLE_LINKER__graph_level_Debug CMakeFiles/graph_level.dir/graph_level.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/graph_level.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1601,7 +1601,7 @@ build cmake_object_order_depends_target_topological_sort: phony || CMakeFiles/to
 
 build CMakeFiles/topological_sort.dir/topological_sort.cpp.o: CXX_COMPILER__topological_sort_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/topological_sort.cpp || cmake_object_order_depends_target_topological_sort
   DEP_FILE = CMakeFiles/topological_sort.dir/topological_sort.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/topological_sort.dir
   OBJECT_FILE_DIR = CMakeFiles/topological_sort.dir
 
@@ -1614,7 +1614,7 @@ build CMakeFiles/topological_sort.dir/topological_sort.cpp.o: CXX_COMPILER__topo
 # Link the executable topological_sort
 
 build topological_sort: CXX_EXECUTABLE_LINKER__topological_sort_Debug CMakeFiles/topological_sort.dir/topological_sort.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/topological_sort.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1632,7 +1632,7 @@ build cmake_object_order_depends_target_dijkstra: phony || CMakeFiles/dijkstra.d
 
 build CMakeFiles/dijkstra.dir/dijkstra.cpp.o: CXX_COMPILER__dijkstra_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/dijkstra.cpp || cmake_object_order_depends_target_dijkstra
   DEP_FILE = CMakeFiles/dijkstra.dir/dijkstra.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/dijkstra.dir
   OBJECT_FILE_DIR = CMakeFiles/dijkstra.dir
 
@@ -1645,7 +1645,7 @@ build CMakeFiles/dijkstra.dir/dijkstra.cpp.o: CXX_COMPILER__dijkstra_Debug /User
 # Link the executable dijkstra
 
 build dijkstra: CXX_EXECUTABLE_LINKER__dijkstra_Debug CMakeFiles/dijkstra.dir/dijkstra.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/dijkstra.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1663,7 +1663,7 @@ build cmake_object_order_depends_target_dijkstra_heap: phony || CMakeFiles/dijks
 
 build CMakeFiles/dijkstra_heap.dir/dijkstra_heap.cpp.o: CXX_COMPILER__dijkstra_heap_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/dijkstra_heap.cpp || cmake_object_order_depends_target_dijkstra_heap
   DEP_FILE = CMakeFiles/dijkstra_heap.dir/dijkstra_heap.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/dijkstra_heap.dir
   OBJECT_FILE_DIR = CMakeFiles/dijkstra_heap.dir
 
@@ -1676,7 +1676,7 @@ build CMakeFiles/dijkstra_heap.dir/dijkstra_heap.cpp.o: CXX_COMPILER__dijkstra_h
 # Link the executable dijkstra_heap
 
 build dijkstra_heap: CXX_EXECUTABLE_LINKER__dijkstra_heap_Debug CMakeFiles/dijkstra_heap.dir/dijkstra_heap.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/dijkstra_heap.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1694,7 +1694,7 @@ build cmake_object_order_depends_target_bellman_ford: phony || CMakeFiles/bellma
 
 build CMakeFiles/bellman_ford.dir/bellman_ford.cpp.o: CXX_COMPILER__bellman_ford_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/bellman_ford.cpp || cmake_object_order_depends_target_bellman_ford
   DEP_FILE = CMakeFiles/bellman_ford.dir/bellman_ford.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/bellman_ford.dir
   OBJECT_FILE_DIR = CMakeFiles/bellman_ford.dir
 
@@ -1707,7 +1707,7 @@ build CMakeFiles/bellman_ford.dir/bellman_ford.cpp.o: CXX_COMPILER__bellman_ford
 # Link the executable bellman_ford
 
 build bellman_ford: CXX_EXECUTABLE_LINKER__bellman_ford_Debug CMakeFiles/bellman_ford.dir/bellman_ford.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/bellman_ford.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1725,7 +1725,7 @@ build cmake_object_order_depends_target_spfa: phony || CMakeFiles/spfa.dir
 
 build CMakeFiles/spfa.dir/spfa.cpp.o: CXX_COMPILER__spfa_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/spfa.cpp || cmake_object_order_depends_target_spfa
   DEP_FILE = CMakeFiles/spfa.dir/spfa.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/spfa.dir
   OBJECT_FILE_DIR = CMakeFiles/spfa.dir
 
@@ -1738,7 +1738,7 @@ build CMakeFiles/spfa.dir/spfa.cpp.o: CXX_COMPILER__spfa_Debug /Users/gamilian/w
 # Link the executable spfa
 
 build spfa: CXX_EXECUTABLE_LINKER__spfa_Debug CMakeFiles/spfa.dir/spfa.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/spfa.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1756,7 +1756,7 @@ build cmake_object_order_depends_target_spfa_jg_nring: phony || CMakeFiles/spfa_
 
 build CMakeFiles/spfa_jg_nring.dir/spfa_jg_nring.cpp.o: CXX_COMPILER__spfa_jg_nring_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/spfa_jg_nring.cpp || cmake_object_order_depends_target_spfa_jg_nring
   DEP_FILE = CMakeFiles/spfa_jg_nring.dir/spfa_jg_nring.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/spfa_jg_nring.dir
   OBJECT_FILE_DIR = CMakeFiles/spfa_jg_nring.dir
 
@@ -1769,7 +1769,7 @@ build CMakeFiles/spfa_jg_nring.dir/spfa_jg_nring.cpp.o: CXX_COMPILER__spfa_jg_nr
 # Link the executable spfa_jg_nring
 
 build spfa_jg_nring: CXX_EXECUTABLE_LINKER__spfa_jg_nring_Debug CMakeFiles/spfa_jg_nring.dir/spfa_jg_nring.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/spfa_jg_nring.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1787,7 +1787,7 @@ build cmake_object_order_depends_target_floyd: phony || CMakeFiles/floyd.dir
 
 build CMakeFiles/floyd.dir/floyd.cpp.o: CXX_COMPILER__floyd_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/floyd.cpp || cmake_object_order_depends_target_floyd
   DEP_FILE = CMakeFiles/floyd.dir/floyd.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/floyd.dir
   OBJECT_FILE_DIR = CMakeFiles/floyd.dir
 
@@ -1800,7 +1800,7 @@ build CMakeFiles/floyd.dir/floyd.cpp.o: CXX_COMPILER__floyd_Debug /Users/gamilia
 # Link the executable floyd
 
 build floyd: CXX_EXECUTABLE_LINKER__floyd_Debug CMakeFiles/floyd.dir/floyd.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/floyd.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1818,7 +1818,7 @@ build cmake_object_order_depends_target_prim: phony || CMakeFiles/prim.dir
 
 build CMakeFiles/prim.dir/prim.cpp.o: CXX_COMPILER__prim_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/prim.cpp || cmake_object_order_depends_target_prim
   DEP_FILE = CMakeFiles/prim.dir/prim.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/prim.dir
   OBJECT_FILE_DIR = CMakeFiles/prim.dir
 
@@ -1831,7 +1831,7 @@ build CMakeFiles/prim.dir/prim.cpp.o: CXX_COMPILER__prim_Debug /Users/gamilian/w
 # Link the executable prim
 
 build prim: CXX_EXECUTABLE_LINKER__prim_Debug CMakeFiles/prim.dir/prim.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/prim.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1849,7 +1849,7 @@ build cmake_object_order_depends_target_prim_heap: phony || CMakeFiles/prim_heap
 
 build CMakeFiles/prim_heap.dir/prim_heap.cpp.o: CXX_COMPILER__prim_heap_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/prim_heap.cpp || cmake_object_order_depends_target_prim_heap
   DEP_FILE = CMakeFiles/prim_heap.dir/prim_heap.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/prim_heap.dir
   OBJECT_FILE_DIR = CMakeFiles/prim_heap.dir
 
@@ -1862,7 +1862,7 @@ build CMakeFiles/prim_heap.dir/prim_heap.cpp.o: CXX_COMPILER__prim_heap_Debug /U
 # Link the executable prim_heap
 
 build prim_heap: CXX_EXECUTABLE_LINKER__prim_heap_Debug CMakeFiles/prim_heap.dir/prim_heap.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/prim_heap.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1880,7 +1880,7 @@ build cmake_object_order_depends_target_kruskal: phony || CMakeFiles/kruskal.dir
 
 build CMakeFiles/kruskal.dir/kruskal.cpp.o: CXX_COMPILER__kruskal_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/kruskal.cpp || cmake_object_order_depends_target_kruskal
   DEP_FILE = CMakeFiles/kruskal.dir/kruskal.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/kruskal.dir
   OBJECT_FILE_DIR = CMakeFiles/kruskal.dir
 
@@ -1893,7 +1893,7 @@ build CMakeFiles/kruskal.dir/kruskal.cpp.o: CXX_COMPILER__kruskal_Debug /Users/g
 # Link the executable kruskal
 
 build kruskal: CXX_EXECUTABLE_LINKER__kruskal_Debug CMakeFiles/kruskal.dir/kruskal.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/kruskal.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1911,7 +1911,7 @@ build cmake_object_order_depends_target_jg_bipartite_graph: phony || CMakeFiles/
 
 build CMakeFiles/jg_bipartite_graph.dir/jg_bipartite_graph.cpp.o: CXX_COMPILER__jg_bipartite_graph_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/jg_bipartite_graph.cpp || cmake_object_order_depends_target_jg_bipartite_graph
   DEP_FILE = CMakeFiles/jg_bipartite_graph.dir/jg_bipartite_graph.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/jg_bipartite_graph.dir
   OBJECT_FILE_DIR = CMakeFiles/jg_bipartite_graph.dir
 
@@ -1924,7 +1924,7 @@ build CMakeFiles/jg_bipartite_graph.dir/jg_bipartite_graph.cpp.o: CXX_COMPILER__
 # Link the executable jg_bipartite_graph
 
 build jg_bipartite_graph: CXX_EXECUTABLE_LINKER__jg_bipartite_graph_Debug CMakeFiles/jg_bipartite_graph.dir/jg_bipartite_graph.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/jg_bipartite_graph.dir
   POST_BUILD = :
   PRE_LINK = :
@@ -1942,7 +1942,7 @@ build cmake_object_order_depends_target_hungarian: phony || CMakeFiles/hungarian
 
 build CMakeFiles/hungarian.dir/hungarian.cpp.o: CXX_COMPILER__hungarian_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/hungarian.cpp || cmake_object_order_depends_target_hungarian
   DEP_FILE = CMakeFiles/hungarian.dir/hungarian.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
   OBJECT_DIR = CMakeFiles/hungarian.dir
   OBJECT_FILE_DIR = CMakeFiles/hungarian.dir
 
@@ -1955,12 +1955,880 @@ build CMakeFiles/hungarian.dir/hungarian.cpp.o: CXX_COMPILER__hungarian_Debug /U
 # Link the executable hungarian
 
 build hungarian: CXX_EXECUTABLE_LINKER__hungarian_Debug CMakeFiles/hungarian.dir/hungarian.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/hungarian.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = hungarian
   TARGET_PDB = hungarian.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target is_prime
+
+
+#############################################
+# Order-only phony target for is_prime
+
+build cmake_object_order_depends_target_is_prime: phony || CMakeFiles/is_prime.dir
+
+build CMakeFiles/is_prime.dir/is_prime.cpp.o: CXX_COMPILER__is_prime_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/is_prime.cpp || cmake_object_order_depends_target_is_prime
+  DEP_FILE = CMakeFiles/is_prime.dir/is_prime.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/is_prime.dir
+  OBJECT_FILE_DIR = CMakeFiles/is_prime.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target is_prime
+
+
+#############################################
+# Link the executable is_prime
+
+build is_prime: CXX_EXECUTABLE_LINKER__is_prime_Debug CMakeFiles/is_prime.dir/is_prime.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/is_prime.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = is_prime
+  TARGET_PDB = is_prime.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target divide_prime
+
+
+#############################################
+# Order-only phony target for divide_prime
+
+build cmake_object_order_depends_target_divide_prime: phony || CMakeFiles/divide_prime.dir
+
+build CMakeFiles/divide_prime.dir/divide_prime.cpp.o: CXX_COMPILER__divide_prime_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/divide_prime.cpp || cmake_object_order_depends_target_divide_prime
+  DEP_FILE = CMakeFiles/divide_prime.dir/divide_prime.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/divide_prime.dir
+  OBJECT_FILE_DIR = CMakeFiles/divide_prime.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target divide_prime
+
+
+#############################################
+# Link the executable divide_prime
+
+build divide_prime: CXX_EXECUTABLE_LINKER__divide_prime_Debug CMakeFiles/divide_prime.dir/divide_prime.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/divide_prime.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = divide_prime
+  TARGET_PDB = divide_prime.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target angstrom_sieve_to_prime
+
+
+#############################################
+# Order-only phony target for angstrom_sieve_to_prime
+
+build cmake_object_order_depends_target_angstrom_sieve_to_prime: phony || CMakeFiles/angstrom_sieve_to_prime.dir
+
+build CMakeFiles/angstrom_sieve_to_prime.dir/angstrom_sieve_to_prime.cpp.o: CXX_COMPILER__angstrom_sieve_to_prime_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/angstrom_sieve_to_prime.cpp || cmake_object_order_depends_target_angstrom_sieve_to_prime
+  DEP_FILE = CMakeFiles/angstrom_sieve_to_prime.dir/angstrom_sieve_to_prime.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/angstrom_sieve_to_prime.dir
+  OBJECT_FILE_DIR = CMakeFiles/angstrom_sieve_to_prime.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target angstrom_sieve_to_prime
+
+
+#############################################
+# Link the executable angstrom_sieve_to_prime
+
+build angstrom_sieve_to_prime: CXX_EXECUTABLE_LINKER__angstrom_sieve_to_prime_Debug CMakeFiles/angstrom_sieve_to_prime.dir/angstrom_sieve_to_prime.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/angstrom_sieve_to_prime.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = angstrom_sieve_to_prime
+  TARGET_PDB = angstrom_sieve_to_prime.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target linear_sieve_to_prime
+
+
+#############################################
+# Order-only phony target for linear_sieve_to_prime
+
+build cmake_object_order_depends_target_linear_sieve_to_prime: phony || CMakeFiles/linear_sieve_to_prime.dir
+
+build CMakeFiles/linear_sieve_to_prime.dir/linear_sieve_to_prime.cpp.o: CXX_COMPILER__linear_sieve_to_prime_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/linear_sieve_to_prime.cpp || cmake_object_order_depends_target_linear_sieve_to_prime
+  DEP_FILE = CMakeFiles/linear_sieve_to_prime.dir/linear_sieve_to_prime.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/linear_sieve_to_prime.dir
+  OBJECT_FILE_DIR = CMakeFiles/linear_sieve_to_prime.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target linear_sieve_to_prime
+
+
+#############################################
+# Link the executable linear_sieve_to_prime
+
+build linear_sieve_to_prime: CXX_EXECUTABLE_LINKER__linear_sieve_to_prime_Debug CMakeFiles/linear_sieve_to_prime.dir/linear_sieve_to_prime.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/linear_sieve_to_prime.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = linear_sieve_to_prime
+  TARGET_PDB = linear_sieve_to_prime.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target get_approximation
+
+
+#############################################
+# Order-only phony target for get_approximation
+
+build cmake_object_order_depends_target_get_approximation: phony || CMakeFiles/get_approximation.dir
+
+build CMakeFiles/get_approximation.dir/get_approximation.cpp.o: CXX_COMPILER__get_approximation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/get_approximation.cpp || cmake_object_order_depends_target_get_approximation
+  DEP_FILE = CMakeFiles/get_approximation.dir/get_approximation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/get_approximation.dir
+  OBJECT_FILE_DIR = CMakeFiles/get_approximation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target get_approximation
+
+
+#############################################
+# Link the executable get_approximation
+
+build get_approximation: CXX_EXECUTABLE_LINKER__get_approximation_Debug CMakeFiles/get_approximation.dir/get_approximation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/get_approximation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = get_approximation
+  TARGET_PDB = get_approximation.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target count_of_approximation
+
+
+#############################################
+# Order-only phony target for count_of_approximation
+
+build cmake_object_order_depends_target_count_of_approximation: phony || CMakeFiles/count_of_approximation.dir
+
+build CMakeFiles/count_of_approximation.dir/count_of_approximation.cpp.o: CXX_COMPILER__count_of_approximation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/count_of_approximation.cpp || cmake_object_order_depends_target_count_of_approximation
+  DEP_FILE = CMakeFiles/count_of_approximation.dir/count_of_approximation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/count_of_approximation.dir
+  OBJECT_FILE_DIR = CMakeFiles/count_of_approximation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target count_of_approximation
+
+
+#############################################
+# Link the executable count_of_approximation
+
+build count_of_approximation: CXX_EXECUTABLE_LINKER__count_of_approximation_Debug CMakeFiles/count_of_approximation.dir/count_of_approximation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/count_of_approximation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = count_of_approximation
+  TARGET_PDB = count_of_approximation.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target sum_of_approximation
+
+
+#############################################
+# Order-only phony target for sum_of_approximation
+
+build cmake_object_order_depends_target_sum_of_approximation: phony || CMakeFiles/sum_of_approximation.dir
+
+build CMakeFiles/sum_of_approximation.dir/sum_of_approximation.cpp.o: CXX_COMPILER__sum_of_approximation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/sum_of_approximation.cpp || cmake_object_order_depends_target_sum_of_approximation
+  DEP_FILE = CMakeFiles/sum_of_approximation.dir/sum_of_approximation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/sum_of_approximation.dir
+  OBJECT_FILE_DIR = CMakeFiles/sum_of_approximation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target sum_of_approximation
+
+
+#############################################
+# Link the executable sum_of_approximation
+
+build sum_of_approximation: CXX_EXECUTABLE_LINKER__sum_of_approximation_Debug CMakeFiles/sum_of_approximation.dir/sum_of_approximation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/sum_of_approximation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = sum_of_approximation
+  TARGET_PDB = sum_of_approximation.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target greatest_common_divisor
+
+
+#############################################
+# Order-only phony target for greatest_common_divisor
+
+build cmake_object_order_depends_target_greatest_common_divisor: phony || CMakeFiles/greatest_common_divisor.dir
+
+build CMakeFiles/greatest_common_divisor.dir/greatest_common_divisor.cpp.o: CXX_COMPILER__greatest_common_divisor_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/greatest_common_divisor.cpp || cmake_object_order_depends_target_greatest_common_divisor
+  DEP_FILE = CMakeFiles/greatest_common_divisor.dir/greatest_common_divisor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/greatest_common_divisor.dir
+  OBJECT_FILE_DIR = CMakeFiles/greatest_common_divisor.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target greatest_common_divisor
+
+
+#############################################
+# Link the executable greatest_common_divisor
+
+build greatest_common_divisor: CXX_EXECUTABLE_LINKER__greatest_common_divisor_Debug CMakeFiles/greatest_common_divisor.dir/greatest_common_divisor.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/greatest_common_divisor.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = greatest_common_divisor
+  TARGET_PDB = greatest_common_divisor.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target phi
+
+
+#############################################
+# Order-only phony target for phi
+
+build cmake_object_order_depends_target_phi: phony || CMakeFiles/phi.dir
+
+build CMakeFiles/phi.dir/phi.cpp.o: CXX_COMPILER__phi_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/phi.cpp || cmake_object_order_depends_target_phi
+  DEP_FILE = CMakeFiles/phi.dir/phi.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/phi.dir
+  OBJECT_FILE_DIR = CMakeFiles/phi.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target phi
+
+
+#############################################
+# Link the executable phi
+
+build phi: CXX_EXECUTABLE_LINKER__phi_Debug CMakeFiles/phi.dir/phi.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/phi.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = phi
+  TARGET_PDB = phi.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target get_eulers
+
+
+#############################################
+# Order-only phony target for get_eulers
+
+build cmake_object_order_depends_target_get_eulers: phony || CMakeFiles/get_eulers.dir
+
+build CMakeFiles/get_eulers.dir/get_eulers.cpp.o: CXX_COMPILER__get_eulers_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/get_eulers.cpp || cmake_object_order_depends_target_get_eulers
+  DEP_FILE = CMakeFiles/get_eulers.dir/get_eulers.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/get_eulers.dir
+  OBJECT_FILE_DIR = CMakeFiles/get_eulers.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target get_eulers
+
+
+#############################################
+# Link the executable get_eulers
+
+build get_eulers: CXX_EXECUTABLE_LINKER__get_eulers_Debug CMakeFiles/get_eulers.dir/get_eulers.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/get_eulers.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = get_eulers
+  TARGET_PDB = get_eulers.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target qmi
+
+
+#############################################
+# Order-only phony target for qmi
+
+build cmake_object_order_depends_target_qmi: phony || CMakeFiles/qmi.dir
+
+build CMakeFiles/qmi.dir/qmi.cpp.o: CXX_COMPILER__qmi_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/qmi.cpp || cmake_object_order_depends_target_qmi
+  DEP_FILE = CMakeFiles/qmi.dir/qmi.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/qmi.dir
+  OBJECT_FILE_DIR = CMakeFiles/qmi.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target qmi
+
+
+#############################################
+# Link the executable qmi
+
+build qmi: CXX_EXECUTABLE_LINKER__qmi_Debug CMakeFiles/qmi.dir/qmi.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/qmi.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = qmi
+  TARGET_PDB = qmi.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exgcd
+
+
+#############################################
+# Order-only phony target for exgcd
+
+build cmake_object_order_depends_target_exgcd: phony || CMakeFiles/exgcd.dir
+
+build CMakeFiles/exgcd.dir/exgcd.cpp.o: CXX_COMPILER__exgcd_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/exgcd.cpp || cmake_object_order_depends_target_exgcd
+  DEP_FILE = CMakeFiles/exgcd.dir/exgcd.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/exgcd.dir
+  OBJECT_FILE_DIR = CMakeFiles/exgcd.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exgcd
+
+
+#############################################
+# Link the executable exgcd
+
+build exgcd: CXX_EXECUTABLE_LINKER__exgcd_Debug CMakeFiles/exgcd.dir/exgcd.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/exgcd.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = exgcd
+  TARGET_PDB = exgcd.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target inverse_element
+
+
+#############################################
+# Order-only phony target for inverse_element
+
+build cmake_object_order_depends_target_inverse_element: phony || CMakeFiles/inverse_element.dir
+
+build CMakeFiles/inverse_element.dir/inverse_element.cpp.o: CXX_COMPILER__inverse_element_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/inverse_element.cpp || cmake_object_order_depends_target_inverse_element
+  DEP_FILE = CMakeFiles/inverse_element.dir/inverse_element.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/inverse_element.dir
+  OBJECT_FILE_DIR = CMakeFiles/inverse_element.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target inverse_element
+
+
+#############################################
+# Link the executable inverse_element
+
+build inverse_element: CXX_EXECUTABLE_LINKER__inverse_element_Debug CMakeFiles/inverse_element.dir/inverse_element.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/inverse_element.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = inverse_element
+  TARGET_PDB = inverse_element.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target linear_congruence_equation
+
+
+#############################################
+# Order-only phony target for linear_congruence_equation
+
+build cmake_object_order_depends_target_linear_congruence_equation: phony || CMakeFiles/linear_congruence_equation.dir
+
+build CMakeFiles/linear_congruence_equation.dir/linear_congruence_equation.cpp.o: CXX_COMPILER__linear_congruence_equation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/linear_congruence_equation.cpp || cmake_object_order_depends_target_linear_congruence_equation
+  DEP_FILE = CMakeFiles/linear_congruence_equation.dir/linear_congruence_equation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/linear_congruence_equation.dir
+  OBJECT_FILE_DIR = CMakeFiles/linear_congruence_equation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target linear_congruence_equation
+
+
+#############################################
+# Link the executable linear_congruence_equation
+
+build linear_congruence_equation: CXX_EXECUTABLE_LINKER__linear_congruence_equation_Debug CMakeFiles/linear_congruence_equation.dir/linear_congruence_equation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/linear_congruence_equation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = linear_congruence_equation
+  TARGET_PDB = linear_congruence_equation.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target crt
+
+
+#############################################
+# Order-only phony target for crt
+
+build cmake_object_order_depends_target_crt: phony || CMakeFiles/crt.dir
+
+build CMakeFiles/crt.dir/crt.cpp.o: CXX_COMPILER__crt_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/crt.cpp || cmake_object_order_depends_target_crt
+  DEP_FILE = CMakeFiles/crt.dir/crt.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/crt.dir
+  OBJECT_FILE_DIR = CMakeFiles/crt.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target crt
+
+
+#############################################
+# Link the executable crt
+
+build crt: CXX_EXECUTABLE_LINKER__crt_Debug CMakeFiles/crt.dir/crt.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/crt.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = crt
+  TARGET_PDB = crt.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target excrt
+
+
+#############################################
+# Order-only phony target for excrt
+
+build cmake_object_order_depends_target_excrt: phony || CMakeFiles/excrt.dir
+
+build CMakeFiles/excrt.dir/excrt.cpp.o: CXX_COMPILER__excrt_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/excrt.cpp || cmake_object_order_depends_target_excrt
+  DEP_FILE = CMakeFiles/excrt.dir/excrt.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/excrt.dir
+  OBJECT_FILE_DIR = CMakeFiles/excrt.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target excrt
+
+
+#############################################
+# Link the executable excrt
+
+build excrt: CXX_EXECUTABLE_LINKER__excrt_Debug CMakeFiles/excrt.dir/excrt.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/excrt.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = excrt
+  TARGET_PDB = excrt.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target gauss
+
+
+#############################################
+# Order-only phony target for gauss
+
+build cmake_object_order_depends_target_gauss: phony || CMakeFiles/gauss.dir
+
+build CMakeFiles/gauss.dir/gauss.cpp.o: CXX_COMPILER__gauss_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/gauss.cpp || cmake_object_order_depends_target_gauss
+  DEP_FILE = CMakeFiles/gauss.dir/gauss.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/gauss.dir
+  OBJECT_FILE_DIR = CMakeFiles/gauss.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target gauss
+
+
+#############################################
+# Link the executable gauss
+
+build gauss: CXX_EXECUTABLE_LINKER__gauss_Debug CMakeFiles/gauss.dir/gauss.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/gauss.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = gauss
+  TARGET_PDB = gauss.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target xor_equations
+
+
+#############################################
+# Order-only phony target for xor_equations
+
+build cmake_object_order_depends_target_xor_equations: phony || CMakeFiles/xor_equations.dir
+
+build CMakeFiles/xor_equations.dir/xor_equations.cpp.o: CXX_COMPILER__xor_equations_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/xor_equations.cpp || cmake_object_order_depends_target_xor_equations
+  DEP_FILE = CMakeFiles/xor_equations.dir/xor_equations.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/xor_equations.dir
+  OBJECT_FILE_DIR = CMakeFiles/xor_equations.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target xor_equations
+
+
+#############################################
+# Link the executable xor_equations
+
+build xor_equations: CXX_EXECUTABLE_LINKER__xor_equations_Debug CMakeFiles/xor_equations.dir/xor_equations.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/xor_equations.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = xor_equations
+  TARGET_PDB = xor_equations.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target combinations_1
+
+
+#############################################
+# Order-only phony target for combinations_1
+
+build cmake_object_order_depends_target_combinations_1: phony || CMakeFiles/combinations_1.dir
+
+build CMakeFiles/combinations_1.dir/combinations_1.cpp.o: CXX_COMPILER__combinations_1_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/combinations_1.cpp || cmake_object_order_depends_target_combinations_1
+  DEP_FILE = CMakeFiles/combinations_1.dir/combinations_1.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/combinations_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/combinations_1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target combinations_1
+
+
+#############################################
+# Link the executable combinations_1
+
+build combinations_1: CXX_EXECUTABLE_LINKER__combinations_1_Debug CMakeFiles/combinations_1.dir/combinations_1.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/combinations_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = combinations_1
+  TARGET_PDB = combinations_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target combinations_2
+
+
+#############################################
+# Order-only phony target for combinations_2
+
+build cmake_object_order_depends_target_combinations_2: phony || CMakeFiles/combinations_2.dir
+
+build CMakeFiles/combinations_2.dir/combinations_2.cpp.o: CXX_COMPILER__combinations_2_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/combinations_2.cpp || cmake_object_order_depends_target_combinations_2
+  DEP_FILE = CMakeFiles/combinations_2.dir/combinations_2.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/combinations_2.dir
+  OBJECT_FILE_DIR = CMakeFiles/combinations_2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target combinations_2
+
+
+#############################################
+# Link the executable combinations_2
+
+build combinations_2: CXX_EXECUTABLE_LINKER__combinations_2_Debug CMakeFiles/combinations_2.dir/combinations_2.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/combinations_2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = combinations_2
+  TARGET_PDB = combinations_2.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target combinations_3
+
+
+#############################################
+# Order-only phony target for combinations_3
+
+build cmake_object_order_depends_target_combinations_3: phony || CMakeFiles/combinations_3.dir
+
+build CMakeFiles/combinations_3.dir/combinations_3.cpp.o: CXX_COMPILER__combinations_3_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/combinations_3.cpp || cmake_object_order_depends_target_combinations_3
+  DEP_FILE = CMakeFiles/combinations_3.dir/combinations_3.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/combinations_3.dir
+  OBJECT_FILE_DIR = CMakeFiles/combinations_3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target combinations_3
+
+
+#############################################
+# Link the executable combinations_3
+
+build combinations_3: CXX_EXECUTABLE_LINKER__combinations_3_Debug CMakeFiles/combinations_3.dir/combinations_3.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/combinations_3.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = combinations_3
+  TARGET_PDB = combinations_3.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target combinations_4
+
+
+#############################################
+# Order-only phony target for combinations_4
+
+build cmake_object_order_depends_target_combinations_4: phony || CMakeFiles/combinations_4.dir
+
+build CMakeFiles/combinations_4.dir/combinations_4.cpp.o: CXX_COMPILER__combinations_4_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/combinations_4.cpp || cmake_object_order_depends_target_combinations_4
+  DEP_FILE = CMakeFiles/combinations_4.dir/combinations_4.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/combinations_4.dir
+  OBJECT_FILE_DIR = CMakeFiles/combinations_4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target combinations_4
+
+
+#############################################
+# Link the executable combinations_4
+
+build combinations_4: CXX_EXECUTABLE_LINKER__combinations_4_Debug CMakeFiles/combinations_4.dir/combinations_4.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/combinations_4.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = combinations_4
+  TARGET_PDB = combinations_4.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target cat
+
+
+#############################################
+# Order-only phony target for cat
+
+build cmake_object_order_depends_target_cat: phony || CMakeFiles/cat.dir
+
+build CMakeFiles/cat.dir/cat.cpp.o: CXX_COMPILER__cat_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cat.cpp || cmake_object_order_depends_target_cat
+  DEP_FILE = CMakeFiles/cat.dir/cat.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/cat.dir
+  OBJECT_FILE_DIR = CMakeFiles/cat.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target cat
+
+
+#############################################
+# Link the executable cat
+
+build cat: CXX_EXECUTABLE_LINKER__cat_Debug CMakeFiles/cat.dir/cat.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/cat.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = cat
+  TARGET_PDB = cat.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target divisible_num
+
+
+#############################################
+# Order-only phony target for divisible_num
+
+build cmake_object_order_depends_target_divisible_num: phony || CMakeFiles/divisible_num.dir
+
+build CMakeFiles/divisible_num.dir/divisible_num.cpp.o: CXX_COMPILER__divisible_num_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/divisible_num.cpp || cmake_object_order_depends_target_divisible_num
+  DEP_FILE = CMakeFiles/divisible_num.dir/divisible_num.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/divisible_num.dir
+  OBJECT_FILE_DIR = CMakeFiles/divisible_num.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target divisible_num
+
+
+#############################################
+# Link the executable divisible_num
+
+build divisible_num: CXX_EXECUTABLE_LINKER__divisible_num_Debug CMakeFiles/divisible_num.dir/divisible_num.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/divisible_num.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = divisible_num
+  TARGET_PDB = divisible_num.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target nim_game
+
+
+#############################################
+# Order-only phony target for nim_game
+
+build cmake_object_order_depends_target_nim_game: phony || CMakeFiles/nim_game.dir
+
+build CMakeFiles/nim_game.dir/nim_game.cpp.o: CXX_COMPILER__nim_game_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/nim_game.cpp || cmake_object_order_depends_target_nim_game
+  DEP_FILE = CMakeFiles/nim_game.dir/nim_game.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/nim_game.dir
+  OBJECT_FILE_DIR = CMakeFiles/nim_game.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target nim_game
+
+
+#############################################
+# Link the executable nim_game
+
+build nim_game: CXX_EXECUTABLE_LINKER__nim_game_Debug CMakeFiles/nim_game.dir/nim_game.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/nim_game.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = nim_game
+  TARGET_PDB = nim_game.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target steps_nim
+
+
+#############################################
+# Order-only phony target for steps_nim
+
+build cmake_object_order_depends_target_steps_nim: phony || CMakeFiles/steps_nim.dir
+
+build CMakeFiles/steps_nim.dir/steps_nim.cpp.o: CXX_COMPILER__steps_nim_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/steps_nim.cpp || cmake_object_order_depends_target_steps_nim
+  DEP_FILE = CMakeFiles/steps_nim.dir/steps_nim.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/steps_nim.dir
+  OBJECT_FILE_DIR = CMakeFiles/steps_nim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target steps_nim
+
+
+#############################################
+# Link the executable steps_nim
+
+build steps_nim: CXX_EXECUTABLE_LINKER__steps_nim_Debug CMakeFiles/steps_nim.dir/steps_nim.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/steps_nim.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = steps_nim
+  TARGET_PDB = steps_nim.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target set_nim
+
+
+#############################################
+# Order-only phony target for set_nim
+
+build cmake_object_order_depends_target_set_nim: phony || CMakeFiles/set_nim.dir
+
+build CMakeFiles/set_nim.dir/set_nim.cpp.o: CXX_COMPILER__set_nim_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/set_nim.cpp || cmake_object_order_depends_target_set_nim
+  DEP_FILE = CMakeFiles/set_nim.dir/set_nim.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/set_nim.dir
+  OBJECT_FILE_DIR = CMakeFiles/set_nim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target set_nim
+
+
+#############################################
+# Link the executable set_nim
+
+build set_nim: CXX_EXECUTABLE_LINKER__set_nim_Debug CMakeFiles/set_nim.dir/set_nim.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/set_nim.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = set_nim
+  TARGET_PDB = set_nim.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target split_nim
+
+
+#############################################
+# Order-only phony target for split_nim
+
+build cmake_object_order_depends_target_split_nim: phony || CMakeFiles/split_nim.dir
+
+build CMakeFiles/split_nim.dir/split_nim.cpp.o: CXX_COMPILER__split_nim_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/split_nim.cpp || cmake_object_order_depends_target_split_nim
+  DEP_FILE = CMakeFiles/split_nim.dir/split_nim.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++2a
+  OBJECT_DIR = CMakeFiles/split_nim.dir
+  OBJECT_FILE_DIR = CMakeFiles/split_nim.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target split_nim
+
+
+#############################################
+# Link the executable split_nim
+
+build split_nim: CXX_EXECUTABLE_LINKER__split_nim_Debug CMakeFiles/split_nim.dir/split_nim.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/split_nim.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = split_nim
+  TARGET_PDB = split_nim.dbg
 
 
 #############################################
@@ -1996,7 +2864,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug
 
-build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval cmp_subsequence interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2 walk_maze walk_maze_path eight_digital gravity_tree graph_level topological_sort dijkstra dijkstra_heap bellman_ford spfa spfa_jg_nring floyd prim prim_heap kruskal jg_bipartite_graph hungarian
+build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval cmp_subsequence interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2 walk_maze walk_maze_path eight_digital gravity_tree graph_level topological_sort dijkstra dijkstra_heap bellman_ford spfa spfa_jg_nring floyd prim prim_heap kruskal jg_bipartite_graph hungarian is_prime divide_prime angstrom_sieve_to_prime linear_sieve_to_prime get_approximation count_of_approximation sum_of_approximation greatest_common_divisor phi get_eulers qmi exgcd inverse_element linear_congruence_equation crt excrt gauss xor_equations combinations_1 combinations_2 combinations_3 combinations_4 cat divisible_num nim_game steps_nim set_nim split_nim
 
 # =============================================================================
 # Built-in targets
