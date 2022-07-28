@@ -111,6 +111,14 @@ add_executable(mondrians_dream mondrians_dream.cpp)
 add_executable(shortest_hamilton_path shortest_hamilton_path.cpp)
 add_executable(prom_without_boss prom_without_boss.cpp)
 add_executable(ski ski.cpp)
+add_executable(interval_selection interval_selection.cpp)
+add_executable(max_num_of_disjoint_intervals max_num_of_disjoint_intervals.cpp)
+add_executable(interval_grouping interval_grouping.cpp)
+add_executable(interval_coverage interval_coverage.cpp)
+add_executable(merge_fruit merge_fruit.cpp)
+add_executable(queue_for_water queue_for_water.cpp)
+add_executable(warehouse_lacation warehouse_lacation.cpp)
+add_executable(juggling_cow juggling_cow.cpp)
 
 
 

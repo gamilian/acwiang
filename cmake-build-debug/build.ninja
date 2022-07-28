@@ -3388,6 +3388,254 @@ build ski: CXX_EXECUTABLE_LINKER__ski_Debug CMakeFiles/ski.dir/ski.cpp.o
   TARGET_FILE = ski
   TARGET_PDB = ski.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target interval_selection
+
+
+#############################################
+# Order-only phony target for interval_selection
+
+build cmake_object_order_depends_target_interval_selection: phony || CMakeFiles/interval_selection.dir
+
+build CMakeFiles/interval_selection.dir/interval_selection.cpp.o: CXX_COMPILER__interval_selection_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/interval_selection.cpp || cmake_object_order_depends_target_interval_selection
+  DEP_FILE = CMakeFiles/interval_selection.dir/interval_selection.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/interval_selection.dir
+  OBJECT_FILE_DIR = CMakeFiles/interval_selection.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target interval_selection
+
+
+#############################################
+# Link the executable interval_selection
+
+build interval_selection: CXX_EXECUTABLE_LINKER__interval_selection_Debug CMakeFiles/interval_selection.dir/interval_selection.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/interval_selection.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = interval_selection
+  TARGET_PDB = interval_selection.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target max_num_of_disjoint_intervals
+
+
+#############################################
+# Order-only phony target for max_num_of_disjoint_intervals
+
+build cmake_object_order_depends_target_max_num_of_disjoint_intervals: phony || CMakeFiles/max_num_of_disjoint_intervals.dir
+
+build CMakeFiles/max_num_of_disjoint_intervals.dir/max_num_of_disjoint_intervals.cpp.o: CXX_COMPILER__max_num_of_disjoint_intervals_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/max_num_of_disjoint_intervals.cpp || cmake_object_order_depends_target_max_num_of_disjoint_intervals
+  DEP_FILE = CMakeFiles/max_num_of_disjoint_intervals.dir/max_num_of_disjoint_intervals.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/max_num_of_disjoint_intervals.dir
+  OBJECT_FILE_DIR = CMakeFiles/max_num_of_disjoint_intervals.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target max_num_of_disjoint_intervals
+
+
+#############################################
+# Link the executable max_num_of_disjoint_intervals
+
+build max_num_of_disjoint_intervals: CXX_EXECUTABLE_LINKER__max_num_of_disjoint_intervals_Debug CMakeFiles/max_num_of_disjoint_intervals.dir/max_num_of_disjoint_intervals.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/max_num_of_disjoint_intervals.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = max_num_of_disjoint_intervals
+  TARGET_PDB = max_num_of_disjoint_intervals.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target interval_grouping
+
+
+#############################################
+# Order-only phony target for interval_grouping
+
+build cmake_object_order_depends_target_interval_grouping: phony || CMakeFiles/interval_grouping.dir
+
+build CMakeFiles/interval_grouping.dir/interval_grouping.cpp.o: CXX_COMPILER__interval_grouping_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/interval_grouping.cpp || cmake_object_order_depends_target_interval_grouping
+  DEP_FILE = CMakeFiles/interval_grouping.dir/interval_grouping.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/interval_grouping.dir
+  OBJECT_FILE_DIR = CMakeFiles/interval_grouping.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target interval_grouping
+
+
+#############################################
+# Link the executable interval_grouping
+
+build interval_grouping: CXX_EXECUTABLE_LINKER__interval_grouping_Debug CMakeFiles/interval_grouping.dir/interval_grouping.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/interval_grouping.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = interval_grouping
+  TARGET_PDB = interval_grouping.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target interval_coverage
+
+
+#############################################
+# Order-only phony target for interval_coverage
+
+build cmake_object_order_depends_target_interval_coverage: phony || CMakeFiles/interval_coverage.dir
+
+build CMakeFiles/interval_coverage.dir/interval_coverage.cpp.o: CXX_COMPILER__interval_coverage_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/interval_coverage.cpp || cmake_object_order_depends_target_interval_coverage
+  DEP_FILE = CMakeFiles/interval_coverage.dir/interval_coverage.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/interval_coverage.dir
+  OBJECT_FILE_DIR = CMakeFiles/interval_coverage.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target interval_coverage
+
+
+#############################################
+# Link the executable interval_coverage
+
+build interval_coverage: CXX_EXECUTABLE_LINKER__interval_coverage_Debug CMakeFiles/interval_coverage.dir/interval_coverage.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/interval_coverage.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = interval_coverage
+  TARGET_PDB = interval_coverage.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target merge_fruit
+
+
+#############################################
+# Order-only phony target for merge_fruit
+
+build cmake_object_order_depends_target_merge_fruit: phony || CMakeFiles/merge_fruit.dir
+
+build CMakeFiles/merge_fruit.dir/merge_fruit.cpp.o: CXX_COMPILER__merge_fruit_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/merge_fruit.cpp || cmake_object_order_depends_target_merge_fruit
+  DEP_FILE = CMakeFiles/merge_fruit.dir/merge_fruit.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/merge_fruit.dir
+  OBJECT_FILE_DIR = CMakeFiles/merge_fruit.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target merge_fruit
+
+
+#############################################
+# Link the executable merge_fruit
+
+build merge_fruit: CXX_EXECUTABLE_LINKER__merge_fruit_Debug CMakeFiles/merge_fruit.dir/merge_fruit.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/merge_fruit.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = merge_fruit
+  TARGET_PDB = merge_fruit.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target queue_for_water
+
+
+#############################################
+# Order-only phony target for queue_for_water
+
+build cmake_object_order_depends_target_queue_for_water: phony || CMakeFiles/queue_for_water.dir
+
+build CMakeFiles/queue_for_water.dir/queue_for_water.cpp.o: CXX_COMPILER__queue_for_water_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/queue_for_water.cpp || cmake_object_order_depends_target_queue_for_water
+  DEP_FILE = CMakeFiles/queue_for_water.dir/queue_for_water.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/queue_for_water.dir
+  OBJECT_FILE_DIR = CMakeFiles/queue_for_water.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target queue_for_water
+
+
+#############################################
+# Link the executable queue_for_water
+
+build queue_for_water: CXX_EXECUTABLE_LINKER__queue_for_water_Debug CMakeFiles/queue_for_water.dir/queue_for_water.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/queue_for_water.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = queue_for_water
+  TARGET_PDB = queue_for_water.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target warehouse_lacation
+
+
+#############################################
+# Order-only phony target for warehouse_lacation
+
+build cmake_object_order_depends_target_warehouse_lacation: phony || CMakeFiles/warehouse_lacation.dir
+
+build CMakeFiles/warehouse_lacation.dir/warehouse_lacation.cpp.o: CXX_COMPILER__warehouse_lacation_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/warehouse_lacation.cpp || cmake_object_order_depends_target_warehouse_lacation
+  DEP_FILE = CMakeFiles/warehouse_lacation.dir/warehouse_lacation.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/warehouse_lacation.dir
+  OBJECT_FILE_DIR = CMakeFiles/warehouse_lacation.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target warehouse_lacation
+
+
+#############################################
+# Link the executable warehouse_lacation
+
+build warehouse_lacation: CXX_EXECUTABLE_LINKER__warehouse_lacation_Debug CMakeFiles/warehouse_lacation.dir/warehouse_lacation.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/warehouse_lacation.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = warehouse_lacation
+  TARGET_PDB = warehouse_lacation.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target juggling_cow
+
+
+#############################################
+# Order-only phony target for juggling_cow
+
+build cmake_object_order_depends_target_juggling_cow: phony || CMakeFiles/juggling_cow.dir
+
+build CMakeFiles/juggling_cow.dir/juggling_cow.cpp.o: CXX_COMPILER__juggling_cow_Debug /Users/gamilian/work/program/cpp-project/acwing-git/acwing/juggling_cow.cpp || cmake_object_order_depends_target_juggling_cow
+  DEP_FILE = CMakeFiles/juggling_cow.dir/juggling_cow.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++11
+  OBJECT_DIR = CMakeFiles/juggling_cow.dir
+  OBJECT_FILE_DIR = CMakeFiles/juggling_cow.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target juggling_cow
+
+
+#############################################
+# Link the executable juggling_cow
+
+build juggling_cow: CXX_EXECUTABLE_LINKER__juggling_cow_Debug CMakeFiles/juggling_cow.dir/juggling_cow.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/juggling_cow.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = juggling_cow
+  TARGET_PDB = juggling_cow.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -3422,7 +3670,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug
 
-build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval cmp_subsequence interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2 walk_maze walk_maze_path eight_digital gravity_tree graph_level topological_sort dijkstra dijkstra_heap bellman_ford spfa spfa_jg_nring floyd prim prim_heap kruskal jg_bipartite_graph hungarian is_prime divide_prime angstrom_sieve_to_prime linear_sieve_to_prime get_approximation count_of_approximation sum_of_approximation greatest_common_divisor phi get_eulers qmi exgcd inverse_element linear_congruence_equation crt excrt gauss xor_equations combinations_1 combinations_2 combinations_3 combinations_4 cat divisible_num nim_game steps_nim set_nim split_nim 01_backpack complete_backpack muti_backpack muti_backpack_2 group_backpack digit_triangle longest_ascending_subsequence longest_ascending_subsequence_2 longest_common_subsequence shortest_edit_distance edit_distance stone_merge integer_division count_nums mondrians_dream shortest_hamilton_path prom_without_boss ski
+build all: phony acwing quick_sort merge_sort findKth reverse_pair num_range cubic_root high_precision_add high_precison_sub high_precision_mul high_precision_div prefix_sum1 sum_of_submatrices test difference difference_matrix length_of_longest_sequence sum_of_target binary_of_kth lowbit sum_of_interval cmp_subsequence interval_merge static_linklist static_doubly_linklist stack expression_evaluation queue monotonic_stack monotonic_queue kmp string_count max_xor union_find_sets points_in_connected_block food_chain food_chain_2 heap_sort simulation_heap hash_table_1 hash_table_2 string_hash full_permutation n_queen n_queen_2 walk_maze walk_maze_path eight_digital gravity_tree graph_level topological_sort dijkstra dijkstra_heap bellman_ford spfa spfa_jg_nring floyd prim prim_heap kruskal jg_bipartite_graph hungarian is_prime divide_prime angstrom_sieve_to_prime linear_sieve_to_prime get_approximation count_of_approximation sum_of_approximation greatest_common_divisor phi get_eulers qmi exgcd inverse_element linear_congruence_equation crt excrt gauss xor_equations combinations_1 combinations_2 combinations_3 combinations_4 cat divisible_num nim_game steps_nim set_nim split_nim 01_backpack complete_backpack muti_backpack muti_backpack_2 group_backpack digit_triangle longest_ascending_subsequence longest_ascending_subsequence_2 longest_common_subsequence shortest_edit_distance edit_distance stone_merge integer_division count_nums mondrians_dream shortest_hamilton_path prom_without_boss ski interval_selection max_num_of_disjoint_intervals interval_grouping interval_coverage merge_fruit queue_for_water warehouse_lacation juggling_cow
 
 # =============================================================================
 # Built-in targets

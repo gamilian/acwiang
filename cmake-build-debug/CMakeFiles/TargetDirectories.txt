@@ -106,5 +106,13 @@
 /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/shortest_hamilton_path.dir
 /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/prom_without_boss.dir
 /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/ski.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/interval_selection.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/max_num_of_disjoint_intervals.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/interval_grouping.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/interval_coverage.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/merge_fruit.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/queue_for_water.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/warehouse_lacation.dir
+/Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/juggling_cow.dir
 /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/gamilian/work/program/cpp-project/acwing-git/acwing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
